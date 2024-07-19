@@ -10,6 +10,8 @@
 
 I'm a Remote Tier 2 IT Support Specialist, aspiring to become a Data Analyst.
 
+<details>
+<summary>My top languages</summary>
 | Rank | Languages |
 |-----:|---------------|
 |     1| Excel           |
@@ -18,7 +20,7 @@ I'm a Remote Tier 2 IT Support Specialist, aspiring to become a Data Analyst.
 |     4| SQL     |
 |     5| Power BI     |
 |     6| Tableau      |
-
+</details>
 
 
 # README.md
