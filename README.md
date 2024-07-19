@@ -6,9 +6,9 @@
  <img alt="Shows an image of Data Analysis in the palm of your hand." src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Froles-data-analyst-business-developer-aymen-shaafi-ph-d-&psig=AOvVaw1A5KwZ7aUURlQjin7LUsOm&ust=1721460276792000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKiCu_vJsocDFQAAAAAdAAAAABAE">
 </picture>
 
-### About me
+### About me:
 
-I'm a Remote Tier 2 IT Support Specialist, aspiring to become a Data Analyst.
+*I'm a Remote Tier 2 IT Support Specialist, aspiring to become a Data Analyst.*
 
 <details>
 <summary>My top languages</summary>
