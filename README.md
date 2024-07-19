@@ -11,10 +11,10 @@
 *I'm a Remote Tier 2 IT Support Specialist, aspiring to become a Data Analyst.*
 
 <details>
-<summary>*My top languages...*</summary>
+<summary>My top languages...</summary>
  
-| Rank | Languages |
-|-----:|---------------|
+| Rank | Languages        |
+|-----:|------------------|
 |     1| Excel            |
 |     2| Jupyter Notebook |
 |     3| Python           |
