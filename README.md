@@ -36,12 +36,27 @@
 
 - 📫 How to reach me **ktkieshiatownes@gmail.com**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
 
   <div>
+    <details>
+<summary>My top languages...</summary>
+ 
+| Rank | Languages        |
+|-----:|------------------|
+|     1| Excel            |
+|     2| Jupyter Notebook |
+|     3| Python           |
+|     4| MySQL            |
+|     5| Power BI         |
+|     6| Tableau          |
+
+</details>
+    
     <h4> 📈 Languages and Tools: </h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
