@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Kieshia Townes</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
+
 <h3 align="center">I'm a Remote Tier 2 - IT Support Specialist, aspiring to become a Junior Data Analyst.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 - 🌱 I’m currently learning **SQL, Python, R Programming, Tableau & Power BI**
 
