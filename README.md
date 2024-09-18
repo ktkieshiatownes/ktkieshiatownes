@@ -41,7 +41,7 @@
 <p align="left">
 </p>
 
-
+<details>
 <summary>My top languages...</summary>
  
 | Rank | Languages        |
@@ -53,8 +53,7 @@
 |     5| Power BI         |
 |     6| Tableau          |
 
-
-
+</details>
 
   <div>
     <h4> 📈 Languages and Tools: </h4>
