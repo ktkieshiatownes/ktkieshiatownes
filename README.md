@@ -1,3 +1,25 @@
+<h1 align="center">*Hi 👋, I'm Kieshia Townes*</h1>
+<h3 align="center">*I'm a Remote Tier 2 - IT Support Specialist, aspiring to become a Junior Data Analyst.*</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
+
+- 🌱 I’m currently learning **SQL, Python, R Programming, Tableau & Power BI**
+
+- 👨‍💻 All of my projects are available at [https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/](https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/)
+
+- 📫 How to reach me **ktkieshiatownes@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+
+
 ## *Hello! I'm Kieshia.*
 
 <picture>
