@@ -41,8 +41,8 @@
 <p align="left">
 </p>
 
-<details>
-My top languages...
+
+<summary>My top languages...</summary>
  
 | Rank | Languages        |
 |-----:|------------------|
@@ -53,7 +53,7 @@ My top languages...
 |     5| Power BI         |
 |     6| Tableau          |
 
-</details>
+
 
 
   <div>
