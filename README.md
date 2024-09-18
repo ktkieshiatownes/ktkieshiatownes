@@ -27,6 +27,10 @@
 
 
 
+
+
+
+
 - 🌱 I’m currently learning **SQL, Python, R Programming, Tableau & Power BI**
 
 - 👨‍💻 All of my projects are available at [https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/](https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/)
