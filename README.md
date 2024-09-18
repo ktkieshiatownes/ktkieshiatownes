@@ -8,7 +8,7 @@
 
 ### *About me:*
 
-*I'm a Remote Tier 2 IT Support Specialist, aspiring to become a Data Analyst.*
+*I'm a Remote Tier 2 - IT Support Specialist, aspiring to become a Junior Data Analyst.*
 
 <details>
 <summary>My top languages...</summary>
