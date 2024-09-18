@@ -25,6 +25,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+### *About me:*
+
 <h3 align="center">I'm a Remote Tier 2 - IT Support Specialist, aspiring to become a Junior Data Analyst.</h3>
 
 - 🌱 I’m currently learning **SQL, Python, R Programming, Tableau & Power BI**
