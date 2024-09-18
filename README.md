@@ -42,7 +42,7 @@
 </p>
 
 <details>
-<summary>My top languages...</summary>
+My top languages...
  
 | Rank | Languages        |
 |-----:|------------------|
