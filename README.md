@@ -18,9 +18,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
 
 
-<h3 align="center">I'm a Remote Tier 2 - IT Support Specialist, aspiring to become a Junior Data Analyst.</h3>
-
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -28,7 +25,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
 </picture>
 
-
+<h3 align="center">I'm a Remote Tier 2 - IT Support Specialist, aspiring to become a Junior Data Analyst.</h3>
 
 - 🌱 I’m currently learning **SQL, Python, R Programming, Tableau & Power BI**
 
