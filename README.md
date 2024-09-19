@@ -70,9 +70,9 @@ Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data
 - 📫 How to reach me **ktkieshiatownes@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
-
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /><br>
+
+<h3 align="left">Connect with me:</h3>
 
 <p align="left">
 </p><br>
