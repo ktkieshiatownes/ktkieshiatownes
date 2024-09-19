@@ -5,10 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
 
-
-Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data Analyst position. Where I can further develop my skills and grow professionally by taking on new responsibilities, troubleshooting and resolving issues using my overall body of education (a Bachelor’s in Information Technology) & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support). 
-
-
 ###
 <div id="header" align="center">
 <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" />
