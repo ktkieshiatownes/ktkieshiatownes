@@ -76,33 +76,19 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> </p>
 
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<a href="ktkieshiatownes@gmail.com">
+<a href="mailto:duongnguyen18@siggraph.org">
   <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
 
-<a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/">
-  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
-</a>
+
+
+
+
+
+
+
+
+
 
 <br><br>
 
