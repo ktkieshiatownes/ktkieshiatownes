@@ -67,16 +67,23 @@
 
 - 👨‍💻 *All of my projects are available at [https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/](https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/)*
 
-- 📫 How to reach me **ktkieshiatownes@gmail.com**
+- 📫 *How to reach me ktkieshiatownes@gmail.com*
 
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /><br>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-<a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a><br><br>
+<p align="left"> </p>
 
+<a href="ktkieshiatownes@gmail.com">
+  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/">
+  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
+
+<br><br>
 
 <h3> 📈 Languages and Tools (Data):</h3>
   <div>
