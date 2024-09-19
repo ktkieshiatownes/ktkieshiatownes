@@ -76,10 +76,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left"> </p>
 
-<a href="mailto:duongnguyen18@siggraph.org">
+<dir>
+<a href="mailto:ktkieshiatownes@gmail.com">
   <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
 </a>
-
+</dir>
 
 
 
