@@ -67,7 +67,7 @@ Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="30%" /><br>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /><br>
 
 <h3> Languages and Tools: </h3>
   <div>
