@@ -1,3 +1,8 @@
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82"></p>
+
+
+
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there!;My+name+is+Kieshia+Townes%2C+;I'm+an+aspiring+Junior+Data+Analyst;Welcome+to+my+README" alt="Typing SVG" /></a>
 </h1>
@@ -45,19 +50,7 @@
 <p align="left">
 </p>
 
-<details>
-<summary>My top languages...</summary>
- 
-| Rank | Languages        |
-|-----:|------------------|
-|     1| Excel            |
-|     2| Jupyter Notebook |
-|     3| Python           |
-|     4| MySQL            |
-|     5| Power BI         |
-|     6| Tableau          |
 
-</details>
 <h3> Languages and Tools </h3>
   <div>
     <h4> 📈 Data: </h4>
