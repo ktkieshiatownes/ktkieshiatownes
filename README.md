@@ -3,6 +3,8 @@
 </h1>
 <br>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
+
 
 Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data Analyst position. Where I can further develop my skills and grow professionally by taking on new responsibilities, troubleshooting and resolving issues using my overall body of education (a Bachelor’s in Information Technology) & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support). 
 
@@ -26,10 +28,6 @@ Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data
 
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) 
 </h1>
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
 
 <div id="header" align="center">
 <picture>
