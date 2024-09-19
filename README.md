@@ -32,7 +32,7 @@
 
 ### *About me:*
 
-<h3 align="center"> *Presently, I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions.* </h3>
+<h3 align="center"> Presently, I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions. </h3>
 
 - *I'm an aspiring Junior Data Analyst.*
   
@@ -62,7 +62,7 @@
 </p>
 
 
-<h3> Languages and Tools </h3>
+<h3> Languages and Tools: </h3>
   <div>
     <h4> 📈 Data: </h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
