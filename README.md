@@ -90,7 +90,7 @@ Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data
 	<img title="jira" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="40" style="vertical-align:down; margin:4px"/>	
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
     	<img title="Pandas" alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="60" style="vertical-align:down; margin:4px"/>
-	<img title="Juypter" alt="Juypter" src="https://github.com/devicons/devicon/blob/master/icons/juypter/juypter-original-wordmark.svg" width="60" style="vertical-align:down; margin:4px"/>
+	<img title="Juypter" alt="Juypter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60" style="vertical-align:down; margin:4px"/>
 </p>
   </div>
 
