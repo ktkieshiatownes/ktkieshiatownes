@@ -23,10 +23,9 @@ Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data
 
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, Busy learing code & Vibing to : </h1>
 
-<p><strong> Busy coding & Vibing to :  </strong></p>
-
+<div align="center">
 [![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
-
+</div>
 
 
 
