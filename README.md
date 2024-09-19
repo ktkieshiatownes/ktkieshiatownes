@@ -32,9 +32,6 @@
 
 ### *About me:*
 
-### 😄 *Pronouns:*
-She/Her
-
 <h3 align="center">I'm a Remote Tier 2 - IT Support Specialist, aspiring to become a Junior Data Analyst.</h3>
 
 - 🌱 I’m currently learning **SQL, Python, R Programming, Tableau & Power BI**
