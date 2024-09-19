@@ -34,6 +34,31 @@
 
 <h3 align="center">I'm a Remote Tier 2 - IT Support Specialist, aspiring to become a Junior Data Analyst.</h3>
 
+- Aspiring Junior Data Analyst.
+- Fordham University alumnus.
+- BS in Information Technology Systems. 
+- Detailed-oriented Microsoft Office Specialist, with 10+yrs. of Data Entry/Customer Service experience.
+- Multi-Certified:
+  1. ISC2 Cybersecurity (CC) ‘23
+  2. A+ ‘21
+  3. CCENT '17 
+  4. Microsoft Office Suite ('07, '10 & '13)
+- In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - 🌱 I’m currently learning **SQL, Python, R Programming, Tableau & Power BI**
 
 - 👨‍💻 All of my projects are available at [https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/](https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/)
