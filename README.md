@@ -43,10 +43,10 @@
 - *I am a detailed-oriented Microsoft Office Specialist, with 10+yrs. of Data Entry/Customer Service experience.*
   
 - *I'm Multi-Certified:*
-  *1. ISC2 Cybersecurity (CC) ‘23*
-  *2. A+ ‘21*
-  *3. CCENT '17* 
-  *4. Microsoft Office Suite ('07, '10 & '13)*
+  1. ISC2 Cybersecurity (CC) ‘23
+  2. A+ ‘21
+  3. CCENT '17 
+  4. Microsoft Office Suite ('07, '10 & '13)
      
 - *In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
   
