@@ -14,6 +14,14 @@ Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data
 
 ###
 
+<div id="header" align="center">
+<img align="center" height="150" src="https://www.google.com/imgres?"
+q=data%20analyst%20animated%20gifs%20free&imgurl=https%3A%2F%2Fi.gifer.com%2FSUV4.gif&imgrefurl=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fdata&docid=_CHCGveEIDboiM&tbnid=nnxm5mbM9nRpIM&vet=12ahUKEwjG0ZGXoc-IAxWRpIkEHRgHD10QM3oECG8QAA..i&w=400&h=300&hcb=2&ved=2ahUKEwjG0ZGXoc-IAxWRpIkEHRgHD10QM3oECG8QAA />
+</div>
+
+
+
+
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/">
