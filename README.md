@@ -32,27 +32,27 @@
 
 ### *About me:*
 
-<h3 align="center">Presently, I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions.</h3>
+<h3 align="center"> *Presently, I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions.* </h3>
 
-- An aspiring Junior Data Analyst.
+- *I'm an aspiring Junior Data Analyst.*
   
-- Fordham University alumnus.
+- *I am a Fordham University alumnus.*
   
-- BS in Information Technology Systems.
+- *I have a BS in Information Technology Systems.*
   
-- Detailed-oriented Microsoft Office Specialist, with 10+yrs. of Data Entry/Customer Service experience.
+- *I am a detailed-oriented Microsoft Office Specialist, with 10+yrs. of Data Entry/Customer Service experience.*
   
-- Multi-Certified:
-  1. ISC2 Cybersecurity (CC) ‘23
-  2. A+ ‘21
-  3. CCENT '17 
-  4. Microsoft Office Suite ('07, '10 & '13)
+- *I'm Multi-Certified:*
+  *1. ISC2 Cybersecurity (CC) ‘23*
+  *2. A+ ‘21*
+  *3. CCENT '17* 
+  *4. Microsoft Office Suite ('07, '10 & '13)*
      
-- In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.
+- *In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
   
-- 🌱 I’m currently learning **SQL, Python, R Programming, Tableau & Power BI**
+- 🌱 *I’m currently learning: SQL, Python, R Programming, Tableau & Power BI*
 
-- 👨‍💻 All of my projects are available at [https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/](https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/)
+- 👨‍💻 *All of my projects are available at [https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/](https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/)*
 
 - 📫 How to reach me **ktkieshiatownes@gmail.com**
 
