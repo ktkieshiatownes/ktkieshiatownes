@@ -75,9 +75,8 @@ Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data
 </p>
 <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" /><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /><br>
 
-<h3> Languages and Tools: </h3>
+<h3> 📈 Languages and Tools (Data):</h3>
   <div>
-    <h4> 📈 Data: </h4>
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
