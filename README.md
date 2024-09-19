@@ -7,7 +7,7 @@
 
 ###
 <div id="header" align="center">
-<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" />
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
 </div>
 
 ###
@@ -67,7 +67,7 @@ Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /><br>
+<img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" /><img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /><br>
 
 <h3> Languages and Tools: </h3>
   <div>
