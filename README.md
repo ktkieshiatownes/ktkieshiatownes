@@ -3,14 +3,6 @@
 </h1>
 <br>
 
-
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" width="100%">
-
-
-
-
-
-
 ###
 <div id="header" align="center">
 <img align="center" height="150" src="https://i.imgflip.com/65efzo.gif" />
