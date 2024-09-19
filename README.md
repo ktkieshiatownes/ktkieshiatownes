@@ -73,7 +73,6 @@ Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /><br>
 
 <h3 align="left">Connect with me:</h3>
-
 <p align="left">
 </p><br>
 <a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
