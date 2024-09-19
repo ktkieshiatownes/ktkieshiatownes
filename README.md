@@ -22,7 +22,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, at this precise moment I'm learning to code & vibing to : 
 <br>
 
-[![YouTube](https://www.youtube.com/watch?v=hIzru9wMAJU&list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp) 
+![YouTube](https://www.youtube.com/watch?v=hIzru9wMAJU&list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp "Old School R & B") 
 </h1>
 
 <div id="header" align="center">
