@@ -1,7 +1,7 @@
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there+fellow+Geeks!;My+name+is+Kieshia+Townes%2C+;I'm+an+aspiring+Junior+Data+Analyst;Welcome+to+my+README" alt="Typing SVG" /></a>
 </h1>
-<hr></hr>
+<br>
 
 
 Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data Analyst position. Where I can further develop my skills and grow professionally by taking on new responsibilities, troubleshooting and resolving issues using my overall body of education (a Bachelor’s in Information Technology) & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support). 
