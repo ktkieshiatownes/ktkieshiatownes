@@ -14,14 +14,6 @@ Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data
 
 ###
 
-<div id="header" align="center">
-<img align="center" height="150" src="https://www.google.com/imgres?" />
-</div>
-
-
-
-
-
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
