@@ -99,7 +99,7 @@
 
 
 <p align="center">
-<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="60">
+<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40">
 </p>
 
 
