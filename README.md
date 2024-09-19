@@ -31,6 +31,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
 
 
+<img src="https://raw.githubusercontent.com/KTownes/KTownes/snake/github-snake-dark.svg" width="100%">
+
 <div id="header" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
