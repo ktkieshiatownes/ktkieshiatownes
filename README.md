@@ -22,7 +22,8 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, at this precise moment I'm learning to code & vibing to : 
 <br>
 
-![YouTube](https://www.youtube.com/watch?v=hIzru9wMAJU&list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp "Old School R & B") 
+[![Spotify](https://spotify-readme.sp-xd.vercel.app/api/spotify)](https://open.spotify.com/user/somnathpaul) <br>
+
 </h1>
 
 <div id="header" align="center">
@@ -74,6 +75,26 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> </p>
+
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <a href="ktkieshiatownes@gmail.com">
   <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
