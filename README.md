@@ -90,6 +90,14 @@
     	<img title="Pandas" alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="60" style="vertical-align:down; margin:4px"/>
 	<img title="Juypter" alt="Juypter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60" style="vertical-align:down; margin:4px"/>
 	<img title="MySQL" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" style="vertical-align:down; margin:4px"/>
+	<img title="VisualStudioCode" alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="60" style="vertical-align:down; margin:4px"/>
+
+
+
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+     
 </p>
   </div>
 
