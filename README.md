@@ -33,10 +33,10 @@
 </picture>
 </div>
 
-### *About me:*
+### *About me:*  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
 <dir align="right">
-      <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+      
 </dir>
 
 Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data Analyst position. Where I can further develop my skills and grow professionally by taking on new responsibilities, troubleshooting and resolving issues using my overall body of education (a Bachelor’s in Information Technology) & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support). 
