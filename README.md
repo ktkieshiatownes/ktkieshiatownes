@@ -78,31 +78,6 @@
 <a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/4214976" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="4214976" height="30" width="40" /></a>
 
-
-
-
-
-
-
-
-
-
-
-<dir>
-<a href="mailto:ktkieshiatownes@gmail.com">
-  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
-</a>
-</dir>
-
-
-
-
-
-
-
-
-
-
 <br><br>
 
 <h3> 📈 Languages and Tools (Data):</h3>
