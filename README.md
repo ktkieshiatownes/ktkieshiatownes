@@ -88,7 +88,7 @@
 	<img title="jira" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="40" style="vertical-align:down; margin:4px"/>	
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
     	<img title="Pandas" alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="60" style="vertical-align:down; margin:4px"/>
-	<img title="Juypter" alt="Juypter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="60" style="vertical-align:down; margin:4px"/>
+	<img title="Juypter" alt="Juypter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" style="vertical-align:down; margin:4px"/>
 	<img title="MySQL" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" style="vertical-align:down; margin:4px"/>
 	<img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="vertical-align:down; margin:4px"/>
 </p>
