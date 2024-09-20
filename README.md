@@ -78,7 +78,7 @@
 
 <h3 align="left">Connect with me 👇</h3>
 <p align="left">
-<a href="https://github.com/peterthehan">
+<a href="https://github.com/ktkieshiatownes">
   <picture align="left">
    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
    <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
