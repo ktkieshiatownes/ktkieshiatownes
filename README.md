@@ -13,11 +13,12 @@
 <div id="header" align="center">
   <a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+	[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:mixdeers@gmail.com)
   </a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:mixdeers@gmail.com)
-</div>
+</dir>
 
 
+ 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, at this precise moment I'm learning to code & vibing to : 
 <br>
 
@@ -118,7 +119,8 @@ https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fdata&p
 </div>
 <br>
 
-
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 
 
 
