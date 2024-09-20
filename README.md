@@ -77,7 +77,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /></br>
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 👇</h3>
 <p align="left">
 <a href="mailto:ktkieshiatownes@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
