@@ -53,6 +53,7 @@
   2. A+ ‘21
   3. CCENT '17 
   4. Microsoft Office Suite ('07, '10 & '13)
+<p align="right"><img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"></p>
 - *In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
 - *I've completed Data Analyst Bootcamps:*
   1. Google: Data Analytics Proessional (in progress...)
