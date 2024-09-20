@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
 
 ###
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, at this precise moment I'm learning to code & vibing to some R&B. 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, at this precise moment I'm learning to code & vibing to some old school R&B. 
 </h1>
 </br>
 </br>
@@ -19,12 +19,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 <a href="mailto:ktkieshiatownes@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ktkieshiatownes@gmail.com" alt="Gmail Badge" width="8%"/>
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ktkieshiatownes@gmail.com" alt="Gmail Badge" width="9%"/>
   </a>		
 </div>
 
 <h1 align="center">
-<a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB">Click here to enjoy some Old School R&B 60s,70s,80 Music</a>
+<a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB">Click here to enjoy some Old School R&B 60s,70s,80 Music...</a>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/></p>
 </h1>
 
@@ -43,11 +43,9 @@
 
 ### *About me:*  <img align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  
 
-*Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data Analyst position. Where I can further develop my skills and grow professionally by taking on* *new responsibilities, troubleshooting and resolving issues using my overall body of education (a Bachelor’s in Information Technology) & experience (10+ years of Data* *Entry/Customer Service & 5+ years of Desktop Support).* 
+*Resourceful Junior Data Analyst seeking to acquire a full-time (permanent) entry level position. Where I can further develop my skills and grow professionally by taking on* *new responsibilities, troubleshooting and resolving issues using my overall body of education & experience (10+ years of Data* *Entry/Customer Service & 5+ years of Desktop Support).* 
 
 <h3 align="center"> Presently, I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions. </h3>
-
-- *I'm an aspiring Junior Data Analyst.*
   
 - *I am a Fordham University alumnus.*
   
@@ -60,15 +58,17 @@
   2. A+ ‘21
   3. CCENT '17 
   4. Microsoft Office Suite ('07, '10 & '13)
+     
 - *In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
+  
+- 🌱 *I’m currently learning: SQL, Python, R Programming, Tableau & Power BI*
+  
 - *I've completed Data Analyst Bootcamps:*
   1. Google: Data Analytics Proessional (in progress...)
   2. FreeCodeCamp: Data Analyst with Python (in progress...)
   3. Udemy: The Data Analyst Course - Complete Data Analyst (27 sections & 227 videos)
   4. YouTube: Alex The Analyst (74 videos)
-  
-- 🌱 *I’m currently learning: SQL, Python, R Programming, Tableau & Power BI*
-
+     
 - 👨‍💻 *All of my projects are available at [https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/](https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/)*
 
 - 📫 *How to reach me ktkieshiatownes@gmail.com*
