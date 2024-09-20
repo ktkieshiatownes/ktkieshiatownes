@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
 
 ###
- <div>
+ <div id="header" align="center">>
    <img align="center" src="https://github.com/lauragift21/lauragift21/blob/master/code.gif" alt="Gift's LangStat" width="60%"/>
 </div>
 
