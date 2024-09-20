@@ -78,7 +78,9 @@
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a></p>
 
-</br></br>
+</br>
+</br>
+</br>
 
 <h3> 📈 Languages and Tools (Data):</h3>
   <div>
