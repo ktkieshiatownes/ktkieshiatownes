@@ -31,6 +31,8 @@
 
 </h1>
 
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/></p>
+
 <div id="header" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
