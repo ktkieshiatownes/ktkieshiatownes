@@ -1,13 +1,13 @@
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there+fellow+Geeks+or+Geekettes!;My+name+is+Kieshia+Townes%2C+;I'm+an+aspiring+Junior+Data+Analyst;Welcome+to+my+README" alt="Typing SVG" /></a>
 </h1>
-<br>
+</br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
 
 ###
 <div id="header" align="center">
-	<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="50%"/><br> 
+	<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="50%"/></br> 
 </div>
 
 <div id="header" align="center">
@@ -66,7 +66,7 @@
 
 - 📫 *How to reach me ktkieshiatownes@gmail.com*
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /><br>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /></br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> </p>
@@ -74,7 +74,20 @@
 <p align="left">
 <a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
 
-<br><br>
+</br></br>
+
+<a href="mailto:ashutosh.saxena.2001@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+
+
+
 
 <h3> 📈 Languages and Tools (Data):</h3>
   <div>
