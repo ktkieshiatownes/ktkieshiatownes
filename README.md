@@ -14,16 +14,15 @@
   <a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a href="mailto:ktkieshiatownes@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ktkieshiatownes@gmail.com" alt="Gmail Badge"/>
+  </a>	
 </dir>
 
   <a href="mailto:ktkieshiatownes@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ktkieshiatownes@gmail.com" alt="Gmail Badge"/>
   </a>
 
-
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ktkieshiatownes@gmail.com)](mailto:ktkieshiatownes@gmail.com)
- 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, at this precise moment I'm learning to code & vibing to : 
 <br>
 
