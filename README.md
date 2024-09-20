@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:ktkieshiatownes@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ktkieshiatownes@gmail.com" alt="Gmail Badge" width="10%"/>
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ktkieshiatownes@gmail.com" alt="Gmail Badge" width="8%"/>
   </a>	
 </dir>
 
