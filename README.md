@@ -68,7 +68,7 @@
 
 - 📫 *How to reach me ktkieshiatownes@gmail.com*
 
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /></br>
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /></br>
 
 
 <h3 align="left">Connect with me:</h3>
