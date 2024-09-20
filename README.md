@@ -7,19 +7,7 @@
 
 ###
  <div id="header" align="center">>
-   <img align="center" src="https://github.com/lauragift21/lauragift21/blob/master/code.gif" alt="Gift's LangStat" width="60%"/>
-</div>
-
-
-https://github.com/lauragift21/lauragift21/blob/master/code.gif
-
-
-
-<div id="header" align="center">
-	<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/></br> 
-</div>
-<div id="header" align="center">
-	<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/></br> 
+   <img align="center" src="https://github.com/lauragift21/lauragift21/blob/master/code.gif" alt="Gift's LangStat" width="60%"/></br>
 </div>
 
 <div id="header" align="center">
