@@ -35,8 +35,6 @@
 </br>
 
 <p align="center"><img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"></p>
-
-
 ### *About me:*  <img align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  
 
 *Resourceful Junior Data Analyst seeking to acquire an entry level permanent Data Analyst position. Where I can further develop my skills and grow professionally by taking on* *new responsibilities, troubleshooting and resolving issues using my overall body of education (a Bachelor’s in Information Technology) & experience (10+ years of Data* *Entry/Customer Service & 5+ years of Desktop Support).* 
