@@ -109,7 +109,7 @@
 </br>
 
 <div align="center">
-The Phases of Coding...
+The Lifecycle of Coding...
 </br>
 </br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="12%" alt="Broken system!"/>
