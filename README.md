@@ -109,7 +109,7 @@
 	<img title="MySQL" alt="MySQL" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="60" style="vertical-align:down; margin:4px"/>
 	<img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="vertical-align:down; margin:4px"/>
 	<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" style="vertical-align:down; margin:4px"/>
- 	<img title="PowerBI" alt="PowerBI" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="40" style="vertical-align:down; margin:4px"/> 
+ 	<img title="PowerBI" alt="PowerBI" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="38" style="vertical-align:down; margin:4px"/> 
 </p>
   </div>
   
