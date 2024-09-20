@@ -68,6 +68,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" /></br>
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="mailto:ashutosh.saxena.2001@gmail.com">
@@ -76,23 +77,6 @@
 <a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a></p>
-
-<p align="left">
-<a href="https://linkedin.com/in/gautamkrishnar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-
-</br></br>
-
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-
-
 
 
 <h3> 📈 Languages and Tools (Data):</h3>
