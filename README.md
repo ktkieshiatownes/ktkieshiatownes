@@ -32,9 +32,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg" width="100%">
 </picture>
 </div>
+</br>
 
 <p align="center"><img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"></p>
-
 
 
 ### *About me:*  <img align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  
