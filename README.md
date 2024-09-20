@@ -116,7 +116,6 @@ The Lifecycle of Coding...
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="12%" alt="It's working but you don't know how!"/>
 </div>
-</br>
 
 <div align="center">
 
