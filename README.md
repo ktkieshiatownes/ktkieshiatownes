@@ -21,6 +21,8 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, at this precise moment I'm learning to code & vibing to : 
 
+</br>
+	
 <a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB">*Click here to enjoy some R&B Old School 60s,70s,80 Music*</a>
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/></p>
 
