@@ -54,7 +54,7 @@
   2. A+ ‘21
   3. CCENT '17 
   4. Microsoft Office Suite ('07, '10 & '13)
-     
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="5%" /><br>  
 - *In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
 
 - *I've completed Data Analyst Bootcamps:*
