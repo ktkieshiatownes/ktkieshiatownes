@@ -21,7 +21,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, at this precise moment I'm learning to code & vibing to : 
 
-<a href="<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=R-sXaFohT5H8t7jl&amp;list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>">Click here to enjoy some R&B Old School 60s,70s,80 Music</a>
+<a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB">Click here to enjoy some R&B Old School 60s,70s,80 Music</a>
 
 
 
