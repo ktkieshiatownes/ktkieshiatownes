@@ -3,7 +3,7 @@
 </h1>
 </br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
+
 
 ###
 <div id="header" align="center">
