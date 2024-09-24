@@ -1,5 +1,5 @@
 <h1 align = "center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there+fellow+Geeks+or+Geekettes!;My+name+is+Kieshia+Townes%2C+;I'm+an+aspiring+Junior+Data+Analyst;Welcome+to+my+README" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there,+fellow+Geeks+or+Geekettes!;My+name+is+Kieshia+Townes%2C+;I'm+an+aspiring+Junior+Data+Analyst;Welcome+to+my+README" alt="Typing SVG" /></a>
 </h1>
 </br>
 
@@ -132,12 +132,14 @@ The Lifecycle of Coding...
 
 <div align="center">
 
+</br>
+</br>
 
 <p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
 <p align="center"><i>- Aaron Swartz (1986 ~ 2013) -</i></p>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-</div><br />
+</div></br>
 
 
 
