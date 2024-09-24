@@ -9,7 +9,7 @@
 
 <!--HELLO & ANIMATED WAVING HAND IMAGE-->
 ###
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, at this precise moment I'm learning to code & vibing to some old school R&B. 
+<h1 align="center"><i>Hi </i><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, <i>at this precise moment I'm learning to code & vibing to some old school R&B.</i> 
 </h1>
 </br>
 </br>
