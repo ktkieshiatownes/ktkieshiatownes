@@ -125,8 +125,8 @@
 	<img title="jira" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/jira.svg" width="40" style="vertical-align:down; margin:4px"/>
 	<img title="Anaconda" alt="Anaconda" src="https://raw.githubusercontent.com/kalefranz/conda-packages/refs/heads/master/anaconda-latest/anaconda.ico" width="50" style="vertical-align:down; margin:4px"/>
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
-    	<img title="Pandas" alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="62" style="vertical-align:down; margin:4px"/>
-	<img title="Juypter" alt="Juypter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="45" style="vertical-align:down; margin:4px"/>
+    	<img title="Pandas" alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="65" style="vertical-align:down; margin:4px"/>
+	<img title="Juypter" alt="Juypter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" style="vertical-align:down; margin:4px"/>
 	<img title="Excel" alt="Excel" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" width="55" style="vertical-align:down; margin:4px"/>
 	<img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" style="vertical-align:down; margin:4px"/>
 	<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" style="vertical-align:down; margin:4px"/>
