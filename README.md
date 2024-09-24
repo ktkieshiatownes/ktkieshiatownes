@@ -69,9 +69,10 @@
   2. A+ ‘21
   3. CCENT '17 
   4. Microsoft Office Suite ('07, '10 & '13)
-     
+
+<!--AUTOMATED LIGHTING IMAGE-->
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;*In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
-  
+&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;  
 - 🎯 *Goals (Completed & In Progress...): Data Analyst Bootcamps*
   1. Google: Data Analytics Proessional (in progress...)
   2. FreeCodeCamp: Data Analyst with Python (in progress...)
@@ -79,9 +80,11 @@
   4. YouTube: Alex The Analyst (74 videos)
 
 - 🌱 *I’m currently learning: SQL, Python, R Programming, Tableau & Power BI*
-     
+
+<!--AUTOMATED LAPTOP USER IMAGE-->
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;*All of my projects are available at [https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/](https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/)*
 
+<!--AUTOMATED MAILBOX IMAGE-->
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;*How to reach me ktkieshiatownes@gmail.com*
 
 <!--AUTOMATED PENGUIN IMAGE-->
