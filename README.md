@@ -72,7 +72,7 @@
 
 <!--AUTOMATED LIGHTING IMAGE-->
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;*In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
-&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;  
+&nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="12" />&nbsp;&nbsp;&nbsp;  
 - 🎯 *Goals (Completed & In Progress...): Data Analyst Bootcamps*
   1. Google: Data Analytics Proessional (in progress...)
   2. FreeCodeCamp: Data Analyst with Python (in progress...)
