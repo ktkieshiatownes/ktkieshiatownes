@@ -120,7 +120,7 @@
 </br>
 
 <div align="center">
-The Lifecycle of Coding...
+<b><i>The Lifecycle of Coding...</b></i>
 </br>
 </br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="12%" alt="Broken system!"/>
@@ -136,7 +136,7 @@ The Lifecycle of Coding...
 </br>
 
 <p align="center"><i><b>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</b></i></p>
-<p align="center"><b><i>- Aaron Swartz (1986 ~ 2013) -</i></b></p>
+<p align="center"><b><i>~ Aaron Swartz (1986 - 2013) ~</i></b></p>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div></br>
