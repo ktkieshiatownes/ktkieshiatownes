@@ -88,7 +88,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /></br>
 
 <!--CONNECT INFO-->
-<h3 align="left">Connect with me 👇</h3>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp; <h3 align="left">Connect with me 👇</h3>
 <p align="left">
 <!--GITHUB INFO-->
 <a href="https://github.com/ktkieshiatownes">
