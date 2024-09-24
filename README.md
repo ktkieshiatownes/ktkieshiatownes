@@ -70,7 +70,7 @@
   3. CCENT '17 
   4. Microsoft Office Suite ('07, '10 & '13)
      
-- *In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp; *In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
   
 - 🌱 *I’m currently learning: SQL, Python, R Programming, Tableau & Power BI*
   
@@ -80,9 +80,9 @@
   3. Udemy: The Data Analyst Course - Complete Data Analyst (27 sections & 227 videos)
   4. YouTube: Alex The Analyst (74 videos)
      
-- 👨‍💻 *All of my projects are available at [https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/](https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/)*
+- <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; *All of my projects are available at [https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/](https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/)*
 
-- 📫 *How to reach me ktkieshiatownes@gmail.com*
+- <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp; *How to reach me ktkieshiatownes@gmail.com*
 
 <!--PENGUIN IMAGE-->
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /></br>
