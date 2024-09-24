@@ -72,7 +72,7 @@
   
 - 🌱 *I’m currently learning: SQL, Python, R Programming, Tableau & Power BI*
   
-- *I've completed Data Analyst Bootcamps:*
+- 🎯 *Goals (Completed & In Progress...): Data Analyst Bootcamps*
   1. Google: Data Analytics Proessional (in progress...)
   2. FreeCodeCamp: Data Analyst with Python (in progress...)
   3. Udemy: The Data Analyst Course - Complete Data Analyst (27 sections & 227 videos)
