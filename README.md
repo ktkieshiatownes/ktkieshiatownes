@@ -70,7 +70,7 @@
   3. CCENT '17 
   4. Microsoft Office Suite ('07, '10 & '13)
      
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;&nbsp;*In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;*In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
   
 - 🎯 *Goals (Completed & In Progress...): Data Analyst Bootcamps*
   1. Google: Data Analytics Proessional (in progress...)
