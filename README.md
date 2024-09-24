@@ -88,7 +88,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /></br>
 
 <!--CONNECT INFO-->
-<h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Connect with me 👇</h3>
+<h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Connect with me: </h3>
 <p align="left">
 <!--GITHUB INFO-->
 <a href="https://github.com/ktkieshiatownes">
@@ -111,7 +111,7 @@
 </br>
 
 <!--BADGE IMAGES-->
-<h3> 📈 Languages and Tools (Data):</h3>
+<h3> 📈 Languages and Tools (Data) 👇:</h3>
   <div>
     <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
