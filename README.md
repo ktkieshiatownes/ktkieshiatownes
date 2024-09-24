@@ -1,4 +1,4 @@
-<!--AUTOMATED TYPING INTRODUCTION BANNER-->
+<!--TYPING INTRODUCTION BANNER LOOP-->
 <h1 align = "center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=75&duration=1500&pause=600&color=0CE82B&background=000000EE&center=true&vCenter=true&multiline=true&width=1920&height=384&lines=Hello+there,+fellow+Geeks+or+Geekettes!;My+name+is+Kieshia+Townes%2C+;I'm+an+aspiring+Junior+Data+Analyst;Welcome+to+my+README" alt="Typing SVG" /></a>
 </h1>
@@ -7,14 +7,14 @@
 <!--PROFILE VIEW COUNTER-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ktkieshiatownes&label=Profile%20views&color=0e75b6&style=flat" alt="ktkieshiatownes" /> </p>
 
-<!--HELLO & AUTOMATED WAVING HAND IMAGE-->
+<!--HELLO & ANIMATED WAVING HAND IMAGE-->
 ###
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />, at this precise moment I'm learning to code & vibing to some old school R&B. 
 </h1>
 </br>
 </br>
 
-<!--AUTOMATED LADY ON DESKTOP WAVING IMAGE-->
+<!--ANIMATED LADY ON DESKTOP WAVING IMAGE-->
 <div id="header" align="center">
    <img align="center" src="https://github.com/lauragift21/lauragift21/blob/master/code.gif" alt="Gift's LangStat" width="60%"/></br>
 </div>
@@ -32,12 +32,12 @@
 <!--YOUTUBE PLAYLIST-->
 <h1 align="center">
 <a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB">Click here to enjoy some Old School R&B 60s,70s,80 Music...</a>
-<!--AUTOMATED COLORFUL WAVE LINE-->
+<!--ANIMATED COLORFUL WAVE LINE-->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/></p>
 </h1>
 
 
-<!--AUTOMATED SNAKE-->
+<!--ANIMATED SNAKE-->
 <div id="header" align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
@@ -47,10 +47,10 @@
 </div>
 </br>
 
-<!--AUTOMATED GALAXY LADY-->
+<!--ANIMATED GALAXY LADY-->
 <div align="center"><img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"></div>
 
-<!--ABOUT ME & AUTOMATED KITTEN IMAGE: KYUBEY-->
+<!--ABOUT ME & ANIMATED KITTEN IMAGE: KYUBEY-->
 ### *About me:*  <img align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  
 
 <!--PROF. TEXT ABOUT ME-->
@@ -70,10 +70,10 @@
   3. CCENT '17 
   4. Microsoft Office Suite ('07, '10 & '13)
 
-<!--AUTOMATED LIGHTING IMAGE-->
+<!--ANIMATED LIGHTING IMAGE-->
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;*In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
 
- <!--AUTOMATED BULLSEYE IMAGE-->
+ <!--ANIMATED BULLSEYE IMAGE-->
 - &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="16" />&nbsp;&nbsp;*Goals (Completed & In Progress...): Data Analyst Bootcamps*
   1. Google: Data Analytics Proessional (in progress...)
   2. FreeCodeCamp: Data Analyst with Python (in progress...)
@@ -82,16 +82,16 @@
 
 - 🌱 *I’m currently learning: SQL, Python, R Programming, Tableau & Power BI*
 
-<!--AUTOMATED LAPTOP USER IMAGE-->
+<!--ANIMATED LAPTOP USER IMAGE-->
 - <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp;*All of my projects are available at [https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/](https://ktkieshiatownes.github.io/Ms.-Townes-The-Analyst.github.io/)*
 
-<!--AUTOMATED MAILBOX IMAGE-->
+<!--ANIMATED MAILBOX IMAGE-->
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;*How to reach me ktkieshiatownes@gmail.com*
 
-<!--AUTOMATED PENGUIN IMAGE-->
+<!--ANIMATED PENGUIN IMAGE-->
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
-<!--CONNECT INFO & AUTOMATED COMMENT IMAGE-->
+<!--CONNECT INFO & ANIMATED COMMENT IMAGE-->
 <h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;Connect with me: </h3>
 <p align="left">
 <!--GITHUB INFO-->
@@ -136,9 +136,10 @@
   
 <hr></hr>
 
-<!--RANDOM COMPUTER JOKES-->
+<!--ANIMATED WINKING SMILING FACE-->
 <img align ="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width ="32"/> *Here's a little comdey for ya:*  
 </br>
+<!--RANDOM COMPUTER JOKES-->
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
 </br>
 
@@ -147,7 +148,7 @@
 <b><i>The Lifecycle of Coding...</b></i>
 </br>
 </br>
-<!--AUTOMATED CODING FACES IMAGES-->
+<!--ANIMATED CODING SMILING FACES IMAGES-->
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="12%" alt="Broken system!"/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="12%" alt="It's working!"/>
@@ -163,7 +164,7 @@
 <p align="center"><i><b>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</b></i></p>
 <p align="center"><b><i>~ Aaron Swartz (1986 - 2013) ~</i></b></p>
 
-<!--AUTOMATED THANK YOU BANNER-->
+<!--THANK YOU BANNER LOOP-->
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div></br>
 
