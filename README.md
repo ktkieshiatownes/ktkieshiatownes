@@ -126,7 +126,7 @@
 	<img title="Tableau" alt="Tableau" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/tableau.svg" width="200" style="vertical-align:down; margin:4px"/>
     	<img title="Pandas" alt="Pandas" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original-wordmark.svg" width="60" style="vertical-align:down; margin:4px"/>
 	<img title="Juypter" alt="Juypter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="40" style="vertical-align:down; margin:4px"/>
-	<img title="Excel" alt="Excel" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" width="60" style="vertical-align:down; margin:4px"/>
+	<img title="Excel" alt="Excel" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" width="55" style="vertical-align:down; margin:4px"/>
 	<img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" style="vertical-align:down; margin:4px"/>
 	<img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" style="vertical-align:down; margin:4px"/>
  	<img title="PowerBI" alt="PowerBI" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="35" style="vertical-align:down; margin:4px"/> 
