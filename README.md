@@ -20,7 +20,16 @@
   </a>
 <a href="mailto:ktkieshiatownes@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ktkieshiatownes@gmail.com" alt="Gmail Badge" width="9%"/>
-  </a>		
+  </a>	
+
+
+ <a href="mailto:duongnguyen18@siggraph.org">
+  <img height="32" align="left" alt="Mail" src="img/icons/gmail.png" />
+</a>
+
+<a href="https://www.linkedin.com/in/zach-nguyen">
+  <img height="32" align="left" alt="LinkedIn" src="img/icons/linkedin.png" />
+</a>
 </div>
 
 <h1 align="center">
