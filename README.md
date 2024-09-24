@@ -141,6 +141,10 @@ The Lifecycle of Coding...
 
 <div align="center">
 
+
+<p align="center"><i>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</i></p>
+<p align="center"><i>- Aaron Swartz (1986 ~ 2013) -</i></p>
+
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 </div><br />
 
