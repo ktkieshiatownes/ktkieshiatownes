@@ -9,7 +9,7 @@
 
 <!--HELLO & ANIMATED WAVING HAND IMAGE-->
 ###
-<h1 align="center"><i>Hi </i><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />! <i>At this precise moment, I'm learning to code & vibing to some old school R&B.</i> 
+<h1 align="center"><i>Hi </i><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />! <i>At this precise moment, I'm learning to code & vibing to some old school R&B (60s,70s,80s).</i> 
 </h1>
 </br>
 </br>
@@ -31,7 +31,7 @@
 
 <!--YOUTUBE PLAYLIST-->
 <h1 align="center">
-<a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB"><i>Click here to enjoy some Old School R&B 60s,70s,80 Music...</i></a>
+<a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB"><i>Click here to enjoy some Old School R&B Music...</i></a>
 <!--ANIMATED COLORFUL WAVE LINE-->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/></p>
 </h1>
