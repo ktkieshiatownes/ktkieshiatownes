@@ -51,7 +51,7 @@
 <div align="center"><img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"></div>
 
 <!--ABOUT ME & ANIMATED KITTEN IMAGE: KYUBEY-->
-<h3><i> About me: </i></h3>&nbsp;&nbsp;<img align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  
+<h3 align="left"><i> About me: </i> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  </h3>
 
 <!--PROF. TEXT ABOUT ME-->
 *Resourceful Junior Data Analyst seeking to acquire a full-time (permanent) entry level position. Where I can further develop my skills and grow professionally by taking on* *new responsibilities, troubleshooting and resolving issues using my overall body of education & experience (10+ years of Data* *Entry/Customer Service & 5+ years of Desktop Support).* 
