@@ -53,7 +53,7 @@
 <!--ABOUT ME & ANIMATED KITTEN IMAGE: KYUBEY-->
 <h2><i> About me: </i> <img align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2> 
 
-<!--PROF. TEXT ABOUT ME-->
+<!--PROF. TEXT ABOUT ME & IMAGE-->
 <h3><i> Professionally: </i></h3>
 *Resourceful Junior Data Analyst seeking to acquire a full-time (permanent) entry level position. Where I can further develop my skills and grow professionally by taking on* *new responsibilities, troubleshooting and resolving issues using my overall body of education & experience (10+ years of Data* *Entry/Customer Service & 5+ years of Desktop Support).* 
 
@@ -89,8 +89,8 @@
 <!--ANIMATED MAILBOX IMAGE-->
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;*How to reach me ktkieshiatownes@gmail.com*
 
-<!--PERSONAL TEXT ABOUT ME-->
-<h3><i> Personally: </i></h3>
+<!--PERSONAL TEXT ABOUT ME & HEART IMAGE-->
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i> Personally: </i></h3>
 *I Love video games!!!!!!*
 
 <!--ANIMATED PENGUIN IMAGE-->
