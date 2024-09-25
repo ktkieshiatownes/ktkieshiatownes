@@ -126,7 +126,7 @@
 <!--EMAIL INFO-->
 <a href="mailto:ktkieshiatownes@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
+</a></br>
 <!--LINKEDIN INFO-->
 <a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
