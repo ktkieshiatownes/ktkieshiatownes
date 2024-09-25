@@ -95,12 +95,8 @@
 <div align="left">
 - <i> Wildhearts </i></br> 
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
-</div>
-<div align="right">
 - <i> The First Descendant </i></br>
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
-</div>
-<div align="left">
 - <i> Doom </i></br> 
 <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
 </div>
