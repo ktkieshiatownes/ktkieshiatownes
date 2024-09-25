@@ -111,7 +111,7 @@
 </br>
 </br>
 <!--ANIMATED PENGUIN IMAGE-->
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /></br>
 
 <!--CONNECT INFO & ANIMATED COMMENT IMAGE-->
 <h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="28" />&nbsp;&nbsp;<i> Connect with me: </i></h3>
