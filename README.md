@@ -90,8 +90,32 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;*How to reach me ktkieshiatownes@gmail.com*
 
 <!--PERSONAL TEXT ABOUT ME & ANIMATED HEART IMAGE-->
-<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i> Personally: </i></h3>
-<i> I Love video games!!!!!! </i>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i> Personally: I Love Video Games!!!!!! </i></h3>
+
+- <i> Wildhearts PS5 </i> 
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<br><br>
+
+- <i> The First Descendant PS5 </i>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<br><br>
+
+- <i> Doom PS5 </i> 
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<br><br>
+
+- <i> The Remnant PS5 </i>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<br><br>
+
+- <i> Far Cry 5 PS5 </i> 
+<img align="left" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<br><br>
+
+- <i> Star Wars PS5 </i>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+<br><br>
+
 </br>
 <!--ANIMATED PENGUIN IMAGE-->
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
