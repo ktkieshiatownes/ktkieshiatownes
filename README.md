@@ -167,7 +167,7 @@
 <div align="center">
 <!--FAMOUS QUOTE-->
 <p align="center"><i><b>“Be curious. Read widely. Try new things. What people call intelligence just boils down to curiosity.”</b></i></p>
-<p align="center"><b><i>~ Aaron Swartz (1986 - 2013) ~</i></b></p>
+<p align="center"><b><i> 🌟 Aaron Swartz (1986 - 2013) 🌟 </i></b></p>
 
 <!--THANK YOU BANNER LOOP-->
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
