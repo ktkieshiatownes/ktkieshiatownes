@@ -106,7 +106,7 @@
 <!--FARCRY 5 IMAGE & VIDEO LINK-->
 	<img src="https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png" width="300"> <a href="https://youtu.be/yCWxvogJQmI?si=ZKwBMV90oduB1w-H"></a>
 <!--REMNANT IMAGE & VIDEO LINK-->
-	<img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="450"> <a href="https://youtu.be/TXo8Ol8NQH0?si=4q74UMNVMNEJknsv"></a>
+	<img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="350"> <a href="https://youtu.be/TXo8Ol8NQH0?si=4q74UMNVMNEJknsv"></a>
 </div>
 </br>
 </br>
