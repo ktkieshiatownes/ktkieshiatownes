@@ -93,10 +93,6 @@
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i> Personally: I Love Video Games (PS5)!!!!!! </i></h3>
 
 <!--VIDEO GAME IMAGE & VIDEO LINK-->
-[![ ](<iframe width="560" height="315" src="https://www.youtube.com/embed/2FLA_6A_i5A?si=rtKbKSYJx8h08BUB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
-
-<img src="https://www.youtube.com/embed/2FLA_6A_i5A?si=rtKbKSYJx8h08BUB" width="560" height="315"/> <a href="https://youtu.be/2FLA_6A_i5A?si=y96QF0oDqrut9Yjv"></a>
-
 <div align="">
 <!--DOOM IMAGE & VIDEO LINK-->
 	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
