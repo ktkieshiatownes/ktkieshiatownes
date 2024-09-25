@@ -54,7 +54,7 @@
 <h2><i> About me: </i> <img align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2> 
 
 <!--PROF. TEXT ABOUT ME & ANIMATED WOMAN WORKING ON LAPTOP IMAGE-->
-<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="25" />&nbsp;&nbsp;<i><u> Professionally: </u></i></h3>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="25" />&nbsp;&nbsp;<i> Professionally: </i></h3>
 *Resourceful Junior Data Analyst seeking to acquire a full-time (permanent) entry level position. Where I can further develop my skills and grow professionally by taking on* *new responsibilities, troubleshooting and resolving issues using my overall body of education & experience (10+ years of Data* *Entry/Customer Service & 5+ years of Desktop Support).* 
 
 <h3 align="center"> Presently, I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions. </h3>
@@ -90,7 +90,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;*How to reach me ktkieshiatownes@gmail.com*
 
 <!--PERSONAL TEXT ABOUT ME & ANIMATED HEART IMAGE-->
-<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i><u> Personally: </u></i></h3>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i> Personally: </i></h3>
 *I Love video games!!!!!!*
 </br>
 <!--ANIMATED PENGUIN IMAGE-->
