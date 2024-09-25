@@ -15,7 +15,7 @@
 </br>
 
 <!--ANIMATED LADY ON DESKTOP WAVING IMAGE-->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lauragift21" alt="Gift's LangStat" width="60%"/>
+<img align="center" src="https://github.com/lauragift21/lauragift21/blob/master/code.gif" width="60%"/>
 <div id="header" align="center">
    <img align="center" src="https://i.pinimg.com/originals/a8/da/98/a8da98051b75d18c9fc6d73066d21612.png" alt="Women Gamers" width="100%" height="100%"/></br>
 </div>
