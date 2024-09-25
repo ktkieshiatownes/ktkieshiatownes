@@ -55,15 +55,15 @@
 
 <!--PROF. TEXT ABOUT ME & ANIMATED PROF CODER WOMAN IMAGE-->
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="25" />&nbsp;&nbsp;<i> Professionally: </i></h3>
-<i>Resourceful Junior Data Analyst seeking to acquire a full-time (permanent) entry level position. Where I can further develop my skills and grow professionally by taking on new responsibilities, troubleshooting and resolving issues using my overall body of education & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support).</i> 
+<i>Resourceful Junior Data Analyst, seeking a full-time (permanent) entry-level position. Where I can further develop my skills and grow professionally by taking on new responsibilities, troubleshooting, and resolving issues using my overall body of education & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support).</i> 
 
-<h3 align="center"> Presently, I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions. </h3>
+<h3 align="center"> I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions. </h3>
   
 - *I am a Fordham University alumnus.*
   
 - *I have a BS in Information Technology Systems.*
   
-- *I am a detailed-oriented Microsoft Office Specialist, with 10+yrs. of Data Entry/Customer Service experience.*
+- *I am a detailed-oriented Microsoft Office Specialist, with 10+ years. of Data Entry/Customer Service experience.*
   
 - *I'm Multi-Certified:*
   1. ISC2 Cybersecurity (CC) ‘23
@@ -76,7 +76,7 @@
 
  <!--ANIMATED BULLSEYE IMAGE-->
 - &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="16" />&nbsp;&nbsp;*Goals (Completed & In Progress...): Data Analyst Bootcamps*
-  1. Google: Data Analytics Proessional (in progress...)
+  1. Google: Data Analytics Professional (in progress...)
   2. FreeCodeCamp: Data Analyst with Python (in progress...)
   3. Udemy: The Data Analyst Course - Complete Data Analyst (27 sections & 227 videos)
   4. YouTube: Alex The Analyst (74 videos)
@@ -92,21 +92,27 @@
 <!--PERSONAL TEXT ABOUT ME & ANIMATED HEART IMAGE-->
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i> Personally: I Love Video Games (PS5)!!!!!! </i></h3></br>
 
+an image
+![image alt text](https://example.com/link-to-image)
+wrapped in a link
+[link text](https://example.com/my-link "link title")
+
+
 <!--VIDEO GAME IMAGE & VIDEO LINK-->
 <div align="">
 <!--REMNANT IMAGE & VIDEO LINK-->
-	<img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="350"> <a href="https://youtu.be/TXo8Ol8NQH0?si=4q74UMNVMNEJknsv"></a>
+	<img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="150" height="150"> <a href="https://youtu.be/TXo8Ol8NQH0?si=4q74UMNVMNEJknsv"></a>
 <!--WILD HEARTS IMAGE & VIDEO LINK-->
-	<img src="https://media.contentapi.ea.com/content/dam/eacom/wild-hearts/images/2022/09/wild-hearts-featured-image.jpg.adapt.crop191x100.1200w.jpg" width="300"> <a href="https://youtu.be/1RDozdehO70?si=IHyH_QuYJYWlBMA6"></a>
+	<img src="https://media.contentapi.ea.com/content/dam/eacom/wild-hearts/images/2022/09/wild-hearts-featured-image.jpg.adapt.crop191x100.1200w.jpg" width="150" height="150"> <a href="https://youtu.be/1RDozdehO70?si=IHyH_QuYJYWlBMA6"></a>
 <!--STAR WARS IMAGE & VIDEO LINK-->
-	<img src="https://wp-uploads.qualbert.com/2023/05/content-6-1170x675.png" width="300"> <a href="https://youtu.be/2FLA_6A_i5A?si=QSGmDiWavH3og6KF"></a>
+	<img src="https://wp-uploads.qualbert.com/2023/05/content-6-1170x675.png" width="150" height="150"> <a href="https://youtu.be/2FLA_6A_i5A?si=QSGmDiWavH3og6KF"></a>
 </br></br>
 <!--FARCRY 5 IMAGE & VIDEO LINK-->
-	<img src="https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png" width="300"> <a href="https://youtu.be/yCWxvogJQmI?si=ZKwBMV90oduB1w-H"></a>
+	<img src="https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png" width="150" height="150"> <a href="https://youtu.be/yCWxvogJQmI?si=ZKwBMV90oduB1w-H"></a>
 <!--DESCENDANTS IMAGE & VIDEO LINK-->
-	<img src="https://i.imgur.com/WCXXGHR.png" width="300"> <a href="https://youtu.be/_XiBCwXEM-8?si=CLMYdDIWNGJ5x3fm"></a>
+	<img src="https://i.imgur.com/WCXXGHR.png" width="150" height="150"> <a href="https://youtu.be/_XiBCwXEM-8?si=CLMYdDIWNGJ5x3fm"></a>
 <!--DOOM IMAGE & VIDEO LINK-->
-	<img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/SjdYof2sVBaY7YENVbNN4iaf.png" width="300"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
+	<img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/SjdYof2sVBaY7YENVbNN4iaf.png" width="150" height="150"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
 </div>
 </br>
 
