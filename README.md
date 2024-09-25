@@ -51,10 +51,11 @@
 <div align="center"><img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"></div>
 
 <!--ABOUT ME & ANIMATED KITTEN IMAGE: KYUBEY-->
-### *About me:*  &nbsp;&nbsp;<img align="left" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> 
+### *About me:* 
+<img align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /> 
 
 <!--PROF. TEXT ABOUT ME-->
-<h3><i> Professionally: </i></h3></br>
+<h3><i> Professionally: </i></h3>
 *Resourceful Junior Data Analyst seeking to acquire a full-time (permanent) entry level position. Where I can further develop my skills and grow professionally by taking on* *new responsibilities, troubleshooting and resolving issues using my overall body of education & experience (10+ years of Data* *Entry/Customer Service & 5+ years of Desktop Support).* 
 
 <h3 align="center"> Presently, I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions. </h3>
@@ -89,9 +90,8 @@
 <!--ANIMATED MAILBOX IMAGE-->
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;*How to reach me ktkieshiatownes@gmail.com*
 
-
-<!--PROF. TEXT ABOUT ME-->
-## Personally: </br>
+<!--PERSONAL TEXT ABOUT ME-->
+<h3><i> Personally: </i></h3>
 *I Love video games!!!!!!*
 
 <!--ANIMATED PENGUIN IMAGE-->
