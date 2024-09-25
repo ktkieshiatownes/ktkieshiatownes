@@ -127,7 +127,6 @@
 </div>
 </br>
 </br>
-</br>
 
 <!--BADGE IMAGES & HANDS TYPING ON LAPTOP IMAGE-->
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20" />&nbsp;&nbsp;<i> Languages and Tools (Data) 👇:</i></h3>
