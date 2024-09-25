@@ -116,7 +116,7 @@ wrapped in a link
 </div>
 
 <!--ANIMATED FLOATING TECH STACK IMAGE-->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Floating Tech Stack" width="35%" />
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Floating Tech Stack" width="40%" />
 </br>
 <!--ANIMATED PENGUIN IMAGE-->
 <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Cool Stats on Laptop" width="20%" />
