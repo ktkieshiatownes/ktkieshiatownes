@@ -122,6 +122,7 @@ wrapped in a link
 
 <!--CONNECT INFO & ANIMATED COMMENT IMAGE-->
 <h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="28" />&nbsp;&nbsp;<i> Connect with me: </i></h3>
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Floating Tech Stack" width="30%" />
 <div align="left">
 <!--EMAIL INFO-->
 	<a href="mailto:ktkieshiatownes@gmail.com">
@@ -138,7 +139,6 @@ wrapped in a link
 		<img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
 	  </picture>
 	</a>
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Floating Tech Stack" width="30%" />
 </br>	
 </br>
 <!--LINKEDIN INFO-->
