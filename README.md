@@ -53,7 +53,7 @@
 <!--ABOUT ME & ANIMATED KITTEN IMAGE: KYUBEY-->
 <h2><i> About me: </i> <img align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2> 
 
-<!--PROF. TEXT ABOUT ME & ANIMATED WOMAN WORKING ON LAPTOP IMAGE-->
+<!--PROF. TEXT ABOUT ME & ANIMATED PROF CODER WOMAN IMAGE-->
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="25" />&nbsp;&nbsp;<i> Professionally: </i></h3>
 *Resourceful Junior Data Analyst seeking to acquire a full-time (permanent) entry level position. Where I can further develop my skills and grow professionally by taking on* *new responsibilities, troubleshooting and resolving issues using my overall body of education & experience (10+ years of Data* *Entry/Customer Service & 5+ years of Desktop Support).* 
 
@@ -97,7 +97,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
 <!--CONNECT INFO & ANIMATED COMMENT IMAGE-->
-<h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;<u><i> Connect with me: </i></u></h3>
+<h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;<i> Connect with me: </i></h3>
 <p align="left">
 <!--GITHUB INFO-->
 <a href="https://github.com/ktkieshiatownes">
@@ -120,7 +120,7 @@
 </br>
 
 <!--BADGE IMAGES-->
-<h3> 📈 Languages and Tools (Data) 👇:</h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="25" />&nbsp;&nbsp;<i> Languages and Tools (Data) 👇:</i></h3>
   <div>
     <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
