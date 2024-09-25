@@ -55,7 +55,7 @@
 
 <!--PROF. TEXT ABOUT ME & ANIMATED PROF CODER WOMAN IMAGE-->
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="25" />&nbsp;&nbsp;<i> Professionally: </i></h3>
-*Resourceful Junior Data Analyst seeking to acquire a full-time (permanent) entry level position. Where I can further develop my skills and grow professionally by taking on* *new responsibilities, troubleshooting and resolving issues using my overall body of education & experience (10+ years of Data* *Entry/Customer Service & 5+ years of Desktop Support).* 
+<i>Resourceful Junior Data Analyst seeking to acquire a full-time (permanent) entry level position. Where I can further develop my skills and grow professionally by taking on new responsibilities, troubleshooting and resolving issues using my overall body of education & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support).</i> 
 
 <h3 align="center"> Presently, I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions. </h3>
   
@@ -91,7 +91,7 @@
 
 <!--PERSONAL TEXT ABOUT ME & ANIMATED HEART IMAGE-->
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i> Personally: </i></h3>
-*I Love video games!!!!!!*
+<i> I Love video games!!!!!! </i>
 </br>
 <!--ANIMATED PENGUIN IMAGE-->
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
