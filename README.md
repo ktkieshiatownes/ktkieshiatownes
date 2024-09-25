@@ -63,11 +63,8 @@
   
 - *I have a BS in Information Technology Systems.*
   
-- *I am a detailed-oriented Microsoft Office Specialist, with 10+ years. of Data Entry/Customer Service experience.*
-<div align="right">
-	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Cool Stats on Laptop" width="15%" /> 
-</div>
-</br>
+- *I am a detailed-oriented Microsoft Office Specialist, with 10+ years of Data Entry/Customer Service experience.*
+  
 - *I'm Multi-Certified:*
   1. ISC2 Cybersecurity (CC) ‘23
   2. A+ ‘21
