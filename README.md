@@ -104,11 +104,11 @@
 </br>
 </br>
 <!--ANIMATED PENGUIN IMAGE-->
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="15%" />
+<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
 <!--CONNECT INFO & ANIMATED COMMENT IMAGE-->
 <h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="28" />&nbsp;&nbsp;<i> Connect with me: </i></h3>
-<p align="left">
+<div align="left">
 <!--GITHUB INFO-->
 <a href="https://github.com/ktkieshiatownes">
   <picture align="left">
@@ -124,7 +124,7 @@
 <a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </a>
-</p>
+</div>
 </br>
 </br>
 </br>
