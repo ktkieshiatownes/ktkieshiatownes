@@ -101,13 +101,12 @@
 <!--STAR WARS IMAGE & VIDEO LINK-->
 	<img src="https://wp-uploads.qualbert.com/2023/05/content-6-1170x675.png" width="300"> <a href="https://youtu.be/2FLA_6A_i5A?si=QSGmDiWavH3og6KF"></a>
 </br></br>
+<!--FARCRY 5 IMAGE & VIDEO LINK-->
+	<img src="https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png" width="300"> <a href="https://youtu.be/yCWxvogJQmI?si=ZKwBMV90oduB1w-H"></a>
 <!--DESCENDANTS IMAGE & VIDEO LINK-->
 	<img src="https://i.imgur.com/WCXXGHR.png" width="300"> <a href="https://youtu.be/_XiBCwXEM-8?si=CLMYdDIWNGJ5x3fm"></a>
 <!--DOOM IMAGE & VIDEO LINK-->
 	<img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/SjdYof2sVBaY7YENVbNN4iaf.png" width="300"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
-<!--FARCRY 5 IMAGE & VIDEO LINK-->
-	<img src="https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png" width="300"> <a href="https://youtu.be/yCWxvogJQmI?si=ZKwBMV90oduB1w-H"></a>
-
 </div>
 </br>
 </br>
