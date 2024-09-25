@@ -133,7 +133,7 @@
 </a>
 <!--INDEED INFO-->
 <a href="mailto:ktkieshiatownes@gmail.com">
- <img align="left" alt="Indeed" width="130" hight="100" src="https://user-images.githubusercontent.com/49296385/55599328-09f84380-570c-11e9-971c-144fc7425639.png" />
+ <img align="left" alt="Indeed" width="130" hight="50" src="https://user-images.githubusercontent.com/49296385/55599328-09f84380-570c-11e9-971c-144fc7425639.png" />
 </a>
 </div>
 </br>
