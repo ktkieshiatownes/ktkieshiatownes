@@ -122,24 +122,26 @@ wrapped in a link
 <!--CONNECT INFO & ANIMATED COMMENT IMAGE-->
 <h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="28" />&nbsp;&nbsp;<i> Connect with me: </i></h3>
 <div align="left">
+<!--EMAIL INFO-->
+<a href="mailto:ktkieshiatownes@gmail.com">
+ 	<img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<!--LINKEDIN INFO-->
+<a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/">
+  	<img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</a>
+</br>
+</br>
+<!--INDEED INFO-->
+<a href="mailto:ktkieshiatownes@gmail.com">
+ 	<img align="left" alt="Indeed" width="55" hight="40" src="https://user-images.githubusercontent.com/49296385/55599328-09f84380-570c-11e9-971c-144fc7425639.png" />
+</a>
 <!--GITHUB INFO-->
 <a href="https://github.com/ktkieshiatownes">
   <picture align="left">
    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/github/white">
    <img alt="GitHub" title="GitHub" height="48" width="48" src="https://cdn.simpleicons.org/github">
   </picture>
-</a>
-<!--EMAIL INFO-->
-<a href="mailto:ktkieshiatownes@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a></br>
-<!--LINKEDIN INFO-->
-<a href="https://www.linkedin.com/in/ms-kieshia-townes-a8070242/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</a>
-<!--INDEED INFO-->
-<a href="mailto:ktkieshiatownes@gmail.com">
- <img align="left" alt="Indeed" width="55" hight="40" src="https://user-images.githubusercontent.com/49296385/55599328-09f84380-570c-11e9-971c-144fc7425639.png" />
 </a>
 </div>
 </br>
