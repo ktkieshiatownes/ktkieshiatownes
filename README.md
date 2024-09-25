@@ -54,6 +54,7 @@
 <h3 align="left"><i> About me: </i> &nbsp;&nbsp;<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />  </h3>
 
 <!--PROF. TEXT ABOUT ME-->
+## Professionally: </br>
 *Resourceful Junior Data Analyst seeking to acquire a full-time (permanent) entry level position. Where I can further develop my skills and grow professionally by taking on* *new responsibilities, troubleshooting and resolving issues using my overall body of education & experience (10+ years of Data* *Entry/Customer Service & 5+ years of Desktop Support).* 
 
 <h3 align="center"> Presently, I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions. </h3>
@@ -87,6 +88,11 @@
 
 <!--ANIMATED MAILBOX IMAGE-->
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;*How to reach me ktkieshiatownes@gmail.com*
+
+
+<!--PROF. TEXT ABOUT ME-->
+## Personally: </br>
+*I Love video games!!!!!!*
 
 <!--ANIMATED PENGUIN IMAGE-->
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
