@@ -90,7 +90,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;*How to reach me ktkieshiatownes@gmail.com*
 
 <!--PERSONAL TEXT ABOUT ME & ANIMATED HEART IMAGE-->
-<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i> Personally: I Love Video Games (PS5)!!!!!! </i></h3>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i> Personally: I Love Video Games (PS5)!!!!!! </i></h3></br>
 
 <!--VIDEO GAME IMAGE & VIDEO LINK-->
 <div align="">
