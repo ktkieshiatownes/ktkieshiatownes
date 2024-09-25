@@ -95,7 +95,7 @@
 <!--VIDEO GAME IMAGE & VIDEO LINK-->
 <div align="">
 <!--DOOM IMAGE & VIDEO LINK-->
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
+	<img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/SjdYof2sVBaY7YENVbNN4iaf.png" width="300"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
 <!--WILD HEARTS IMAGE & VIDEO LINK-->
 	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtu.be/1RDozdehO70?si=IHyH_QuYJYWlBMA6"></a>
 <!--STAR WARS IMAGE & VIDEO LINK-->
