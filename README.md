@@ -93,13 +93,13 @@
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i> Personally: I Love Video Games!!!!!! </i></h3>
 
 <div align="left">
-- <i> Wildhearts PS5 </i> 
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
-</div></br>
+- <i> Wildhearts PS5 </i></br> 
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+</div>
 
 <div align="right">
-- <i> The First Descendant PS5 </i>
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
+- <i> The First Descendant PS5 </i></br>
+<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200">
 </div></br>
 
 - <i> Doom PS5 </i> 
