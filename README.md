@@ -94,13 +94,19 @@
 
 <!--VIDEO GAME IMAGE & VIDEO LINK-->
 <div align="">
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB"></a>
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB"></a>
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB"></a>
+<!--DOOM IMAGE & VIDEO LINK-->
+	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
+<!--WILD HEARTS IMAGE & VIDEO LINK-->
+	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtu.be/1RDozdehO70?si=IHyH_QuYJYWlBMA6"></a>
+<!--STAR WARS IMAGE & VIDEO LINK-->
+	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtu.be/2FLA_6A_i5A?si=QSGmDiWavH3og6KF"></a>
 </br></br>
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB"></a>
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB"></a>
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB"></a>
+<!--DESCENDANTS IMAGE & VIDEO LINK-->
+	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtu.be/_XiBCwXEM-8?si=CLMYdDIWNGJ5x3fm"></a>
+<!--FAR CRY 5 IMAGE & VIDEO LINK-->
+	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtu.be/yCWxvogJQmI?si=ZKwBMV90oduB1w-H"></a>
+<!--REMNANT IMAGE & VIDEO LINK-->
+	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> <a href="https://youtu.be/TXo8Ol8NQH0?si=4q74UMNVMNEJknsv"></a>
 </div>
 </br>
 </br>
