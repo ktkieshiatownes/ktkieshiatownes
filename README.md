@@ -92,23 +92,15 @@
 <!--PERSONAL TEXT ABOUT ME & ANIMATED HEART IMAGE-->
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i> Personally: I Love Video Games (PS5)!!!!!! </i></h3>
 
-<div align="left">
-	- <i> Wildhearts </i></br> 
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200"></br></br>
-	- <i> The First Descendant </i></br>
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200"></br></br>
-	- <i> Doom </i></br> 
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200"></br></br>
+<div align="">
+	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"></br></br>
+	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"></br></br>
+	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"></br></br>
+	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"></br></br> 
+	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"></br></br>
+	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"></br></br>
 </div>
-
-<div align="right">
-	- <i> The Remnant </i></br>
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200"></br></br>
-	- <i> Far Cry 5 </i></br> 
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200"></br></br>
-	- <i> Star Wars </i></br>
-	<img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="200"></br></br>
-</div>
+</br>
 </br>
 <!--ANIMATED PENGUIN IMAGE-->
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
