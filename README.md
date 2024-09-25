@@ -31,7 +31,7 @@
 
 <!--YOUTUBE PLAYLIST-->
 <h1 align="center">
-<a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB"><i>Click here to enjoy some Old School R&B Music...</i></a>
+<a href="https://youtube.com/playlist?list=PLwNv9Hhd8gZg0jIsMw_M3Fev5iOUkFCgp&si=fn66uSGsS12TXgxB"><i>Click here to enjoy some Old School R&B music...</i></a>
 <!--ANIMATED COLORFUL WAVE LINE-->
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/></p>
 </h1>
