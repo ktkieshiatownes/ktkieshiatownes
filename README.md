@@ -95,7 +95,7 @@
 <!--VIDEO GAME IMAGE & VIDEO LINK-->
 [![ ](<iframe width="560" height="315" src="https://www.youtube.com/embed/2FLA_6A_i5A?si=rtKbKSYJx8h08BUB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)
 
-<img src="https://www.youtube.com/embed/2FLA_6A_i5A?si=rtKbKSYJx8h08BUB" width="560" height="315"/>  
+<img src="https://www.youtube.com/embed/2FLA_6A_i5A?si=rtKbKSYJx8h08BUB" width="560" height="315"/> <a href="https://youtu.be/2FLA_6A_i5A?si=y96QF0oDqrut9Yjv"></a>
 
 <div align="">
 <!--DOOM IMAGE & VIDEO LINK-->
