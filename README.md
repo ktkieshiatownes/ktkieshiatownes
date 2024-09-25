@@ -51,10 +51,10 @@
 <div align="center"><img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif"></div>
 
 <!--ABOUT ME & ANIMATED KITTEN IMAGE: KYUBEY-->
-<h3><i> About me: </i> <img align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h3> 
+<h2><i> About me: </i> <img align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2> 
 
 <!--PROF. TEXT ABOUT ME-->
-<h2><i> Professionally: </i></h2>
+<h3><i> Professionally: </i></h3>
 *Resourceful Junior Data Analyst seeking to acquire a full-time (permanent) entry level position. Where I can further develop my skills and grow professionally by taking on* *new responsibilities, troubleshooting and resolving issues using my overall body of education & experience (10+ years of Data* *Entry/Customer Service & 5+ years of Desktop Support).* 
 
 <h3 align="center"> Presently, I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions. </h3>
