@@ -101,18 +101,18 @@ wrapped in a link
 <!--VIDEO GAME IMAGE & VIDEO LINK-->
 <div align="">
 <!--REMNANT IMAGE & VIDEO LINK-->
-	<img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="150" height="150"> <a href="https://youtu.be/TXo8Ol8NQH0?si=4q74UMNVMNEJknsv"></a>
+	<img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="200" height="150"> <a href="https://youtu.be/TXo8Ol8NQH0?si=4q74UMNVMNEJknsv"></a>
 <!--WILD HEARTS IMAGE & VIDEO LINK-->
-	<img src="https://media.contentapi.ea.com/content/dam/eacom/wild-hearts/images/2022/09/wild-hearts-featured-image.jpg.adapt.crop191x100.1200w.jpg" width="150" height="150"> <a href="https://youtu.be/1RDozdehO70?si=IHyH_QuYJYWlBMA6"></a>
+	<img src="https://media.contentapi.ea.com/content/dam/eacom/wild-hearts/images/2022/09/wild-hearts-featured-image.jpg.adapt.crop191x100.1200w.jpg" width="200" height="150"> <a href="https://youtu.be/1RDozdehO70?si=IHyH_QuYJYWlBMA6"></a>
 <!--STAR WARS IMAGE & VIDEO LINK-->
-	<img src="https://wp-uploads.qualbert.com/2023/05/content-6-1170x675.png" width="150" height="150"> <a href="https://youtu.be/2FLA_6A_i5A?si=QSGmDiWavH3og6KF"></a>
+	<img src="https://wp-uploads.qualbert.com/2023/05/content-6-1170x675.png" width="200" height="150"> <a href="https://youtu.be/2FLA_6A_i5A?si=QSGmDiWavH3og6KF"></a>
 </br></br>
 <!--FARCRY 5 IMAGE & VIDEO LINK-->
-	<img src="https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png" width="150" height="150"> <a href="https://youtu.be/yCWxvogJQmI?si=ZKwBMV90oduB1w-H"></a>
+	<img src="https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png" width="200" height="150"> <a href="https://youtu.be/yCWxvogJQmI?si=ZKwBMV90oduB1w-H"></a>
 <!--DESCENDANTS IMAGE & VIDEO LINK-->
-	<img src="https://i.imgur.com/WCXXGHR.png" width="150" height="150"> <a href="https://youtu.be/_XiBCwXEM-8?si=CLMYdDIWNGJ5x3fm"></a>
+	<img src="https://i.imgur.com/WCXXGHR.png" width="200" height="150"> <a href="https://youtu.be/_XiBCwXEM-8?si=CLMYdDIWNGJ5x3fm"></a>
 <!--DOOM IMAGE & VIDEO LINK-->
-	<img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/SjdYof2sVBaY7YENVbNN4iaf.png" width="150" height="150"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
+	<img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/SjdYof2sVBaY7YENVbNN4iaf.png" width="200" height="150"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
 </div>
 </br>
 
