@@ -16,7 +16,7 @@
 
 <!--ANIMATED LADY ON DESKTOP WAVING IMAGE-->
 <div id="header" align="center">
-   <img align="center" src="https://github.com/lauragift21/lauragift21/blob/master/code.gif" alt="Gift's LangStat" width="60%"/></br>
+   <img align="center" src="https://github.com/lauragift21/lauragift21/blob/master/code.gif" alt="Gift's LangStat" width="50%"/></br>
 </div>
 
 <!--LINKEDIN & GMAIL-->
@@ -97,7 +97,7 @@
 <img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" />
 
 <!--CONNECT INFO & ANIMATED COMMENT IMAGE-->
-<h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="25" />&nbsp;&nbsp;<i> Connect with me: </i></h3>
+<h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="28" />&nbsp;&nbsp;<i> Connect with me: </i></h3>
 <p align="left">
 <!--GITHUB INFO-->
 <a href="https://github.com/ktkieshiatownes">
