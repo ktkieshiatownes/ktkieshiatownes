@@ -70,7 +70,7 @@
   2. A+ ‘21
   3. CCENT '17 
   4. Microsoft Office Suite ('07, '10 & '13)
-
+<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Cool Stats on Laptop" width="10%" />
 <!--ANIMATED LIGHTING IMAGE-->
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;*In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
 
@@ -118,11 +118,8 @@ wrapped in a link
 <!--ANIMATED FLOATING TECH STACK IMAGE-->
 <img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Floating Tech Stack" width="40%" />
 </br>
-<!--ANIMATED PENGUIN IMAGE-->
 
 <!--CONNECT INFO & ANIMATED COMMENT IMAGE-->
-<img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Cool Stats on Laptop" width="20%" />
-</br>
 <h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="28" />&nbsp;&nbsp;<i> Connect with me: </i></h3>
 <div align="left">
 <!--EMAIL INFO-->
