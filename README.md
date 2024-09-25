@@ -16,7 +16,7 @@
 
 <!--ANIMATED LADY ON DESKTOP WAVING IMAGE-->
 <div id="header" align="center">
-   <img align="center" src="https://github.com/lauragift21/lauragift21/blob/master/code.gif" alt="Gift's LangStat" width="55%"/></br>
+   <img align="center" src="https://github.com/lauragift21/lauragift21/blob/master/code.gif" alt="Gift's LangStat" width="60%"/></br>
 </div>
 
 <!--LINKEDIN & GMAIL-->
