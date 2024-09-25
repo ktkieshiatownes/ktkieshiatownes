@@ -94,8 +94,8 @@
 
 <!--VIDEO GAME IMAGE & VIDEO LINK-->
 <div align="">
-<!--DOOM IMAGE & VIDEO LINK-->
-	<img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/SjdYof2sVBaY7YENVbNN4iaf.png" width="300"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
+<!--REMNANT IMAGE & VIDEO LINK-->
+	<img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="350"> <a href="https://youtu.be/TXo8Ol8NQH0?si=4q74UMNVMNEJknsv"></a>
 <!--WILD HEARTS IMAGE & VIDEO LINK-->
 	<img src="https://media.contentapi.ea.com/content/dam/eacom/wild-hearts/images/2022/09/wild-hearts-featured-image.jpg.adapt.crop191x100.1200w.jpg" width="300"> <a href="https://youtu.be/1RDozdehO70?si=IHyH_QuYJYWlBMA6"></a>
 <!--STAR WARS IMAGE & VIDEO LINK-->
@@ -103,10 +103,11 @@
 </br></br>
 <!--DESCENDANTS IMAGE & VIDEO LINK-->
 	<img src="https://i.imgur.com/WCXXGHR.png" width="300"> <a href="https://youtu.be/_XiBCwXEM-8?si=CLMYdDIWNGJ5x3fm"></a>
+<!--DOOM IMAGE & VIDEO LINK-->
+	<img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/SjdYof2sVBaY7YENVbNN4iaf.png" width="300"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
 <!--FARCRY 5 IMAGE & VIDEO LINK-->
 	<img src="https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png" width="300"> <a href="https://youtu.be/yCWxvogJQmI?si=ZKwBMV90oduB1w-H"></a>
-<!--REMNANT IMAGE & VIDEO LINK-->
-	<img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="350"> <a href="https://youtu.be/TXo8Ol8NQH0?si=4q74UMNVMNEJknsv"></a>
+
 </div>
 </br>
 </br>
