@@ -117,7 +117,11 @@ wrapped in a link
 
 
 <!--ANIMATED PENGUIN IMAGE-->
-<img align="right" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Penguin.png" alt="Penguin" width="20%" /></br>
+<div align="right">
+	<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Cool Stats on Laptop" width="20%" />
+	<img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Floating Tech Stack" width="20%" />
+</div>
+</br>
 
 <!--CONNECT INFO & ANIMATED COMMENT IMAGE-->
 <h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="28" />&nbsp;&nbsp;<i> Connect with me: </i></h3>
@@ -148,7 +152,7 @@ wrapped in a link
 </br>
 </br>
 <!--BADGE IMAGES & HANDS TYPING ON LAPTOP IMAGE-->
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20" />&nbsp;&nbsp;<i> Languages and Tools (Data) 👇:</i></h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20" />&nbsp;&nbsp;<i> Languages & Data Tools 👇:</i></h3>
   <div>
     <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
