@@ -115,11 +115,12 @@ wrapped in a link
 	<img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/SjdYof2sVBaY7YENVbNN4iaf.png" width="220" height="170"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
 </div>
 
-
-<!--ANIMATED PENGUIN IMAGE-->
-<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Floating Tech Stack" width="30%" />
+<!--ANIMATED FLOATING TECH STACK IMAGE-->
+<img align="right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Floating Tech Stack" width="35%" />
 </br>
+<!--ANIMATED PENGUIN IMAGE-->
 <img align="center" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" alt="Cool Stats on Laptop" width="20%" />
+
 <!--CONNECT INFO & ANIMATED COMMENT IMAGE-->
 <h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="28" />&nbsp;&nbsp;<i> Connect with me: </i></h3>
 <div align="left">
