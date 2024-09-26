@@ -93,7 +93,7 @@
 
 <!--GAMER GIRLIES BANNER IMAGE-->
 <div align="center"> 
-<img src="https://i.pinimg.com/originals/a8/da/98/a8da98051b75d18c9fc6d73066d21612.png" alt="Women Gamers" width="60%" height="50%"/>
+<img src="https://i.pinimg.com/originals/a8/da/98/a8da98051b75d18c9fc6d73066d21612.png" alt="Women Gamers" width="70%" height="50%"/>
 </div>
 </br>
 </br>
