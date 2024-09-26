@@ -97,21 +97,25 @@ wrapped in a link
 [link text](https://example.com/my-link "link title")
 
 
-<!--VIDEO GAME IMAGE & VIDEO LINK-->
+<!--VIDEO GAME IMAGEs & VIDEO LINKs-->
 <div align="">
-<!--REMNANT IMAGE & VIDEO LINK-->
+<!--REMNANT-->
 	<img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="220" height="170"> <a href="https://youtu.be/TXo8Ol8NQH0?si=4q74UMNVMNEJknsv"></a>
-<!--WILD HEARTS IMAGE & VIDEO LINK-->
+<!--WILD HEARTS-->
 	<img src="https://media.contentapi.ea.com/content/dam/eacom/wild-hearts/images/2022/09/wild-hearts-featured-image.jpg.adapt.crop191x100.1200w.jpg" width="220" height="170"> <a href="https://youtu.be/1RDozdehO70?si=IHyH_QuYJYWlBMA6"></a>
-<!--STAR WARS IMAGE & VIDEO LINK-->
+<!--STAR WARS-->
 	<img src="https://wp-uploads.qualbert.com/2023/05/content-6-1170x675.png" width="220" height="170"> <a href="https://youtu.be/2FLA_6A_i5A?si=QSGmDiWavH3og6KF"></a>
 </br></br>
-<!--FARCRY 5 IMAGE & VIDEO LINK-->
+<!--FARCRY 5-->
 	<img src="https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png" width="220" height="170"> <a href="https://youtu.be/yCWxvogJQmI?si=ZKwBMV90oduB1w-H"></a>
-<!--DESCENDANTS IMAGE & VIDEO LINK-->
+<!--FIRST DESCENDANTS-->
 	<img src="https://i.imgur.com/WCXXGHR.png" width="220" height="170"> <a href="https://youtu.be/_XiBCwXEM-8?si=CLMYdDIWNGJ5x3fm"></a>
-<!--DOOM IMAGE & VIDEO LINK-->
+<!--DOOM ETERNAL-->
 	<img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/SjdYof2sVBaY7YENVbNN4iaf.png" width="220" height="170"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
+<!--GOD OF WAR-->
+	<img src="https://cdn.wccftech.com/wp-content/uploads/2022/11/god-of-war-ragnarok-sales.jpg" width="220" height="170"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
+<!--RESIDENT EVIL 7 IMAGE & VIDEO LINK-->
+	<img src="https://s3.amazonaws.com/media.thecrimson.com/photos/2017/02/25/022917_1320924.jpg" width="220" height="170"> <a href="https://youtu.be/-Z2_tDLhWoU?si=9FNGN7ZMK4Gq-cdt"></a>
 </div>
 
 <!--ANIMATED FLOATING TECH STACK IMAGE-->
