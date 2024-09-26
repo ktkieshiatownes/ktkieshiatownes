@@ -14,7 +14,7 @@
 </br>
 </br>
 
-<!--ANIMATED LADY ON DESKTOP WAVING IMAGE-->
+<!--WOMEN GAMER IMAGE-->
 <div id="header" align="center">
    <img align="center" src="https://i.pinimg.com/originals/a8/da/98/a8da98051b75d18c9fc6d73066d21612.png" alt="Women Gamers" width="100%" height="100%"/></br>
 </div>
@@ -54,7 +54,7 @@
 <h2><i> About me: </i> <img align="center" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" /></h2> 
 
 <!--PROF. TEXT ABOUT ME & ANIMATED PROF CODER WOMAN IMAGE-->
-<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="25" />&nbsp;&nbsp;<i> Professionally: </i></h3>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="30" />&nbsp;&nbsp;<i> Professionally: </i></h3>
 <i>Resourceful Junior Data Analyst, seeking a full-time (permanent) entry-level position. Where I can further develop my skills and grow professionally by taking on new responsibilities, troubleshooting, and resolving issues using my overall body of education & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support).</i> 
 
 <h3 align="center"> I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions. </h3>
