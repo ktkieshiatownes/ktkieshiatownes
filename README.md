@@ -72,13 +72,13 @@
   4. Microsoft Office Suite ('07, '10 & '13)
      
 <!--ANIMATED LIGHTING IMAGE-->
-- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;*In 5 to 7 years, I see myself as a Junior Data Analyst becoming a Data Scientist.*
+- &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;*In 5 to 7 years, I see myself as a Data Analyst becoming a Data Scientist.*
 <!--ANIMATED BULLSEYE IMAGE-->
 - &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="16" />&nbsp;&nbsp;*Goals (Completed & In Progress...): Data Analyst Bootcamps*
   1. Google: Data Analytics Professional (in progress...)
-  2. FreeCodeCamp: Data Analyst with Python (in progress...)
+  2. FreeCodeCamp: Data Analyst with Python Course (in progress...)
   3. Udemy: The Data Analyst Course - Complete Data Analyst (27 sections & 227 videos)
-  4. YouTube: Alex The Analyst (74 videos)
+  4. YouTube: AlexTheAnalyst Data Analyst Bootcamp (74 videos)
 
 - 🌱 *I’m currently learning: SQL, Python, R Programming, Tableau & Power BI*
 
