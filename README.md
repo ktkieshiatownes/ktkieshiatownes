@@ -89,7 +89,7 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;*How to reach me ktkieshiatownes@gmail.com*
 
 <!--PERSONAL TEXT ABOUT ME & ANIMATED HEART IMAGE-->
-<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="25" />&nbsp;&nbsp;<i> Personally: I Love Video Games (PS5)!!!!!! </i></h3></br>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" />&nbsp;&nbsp;<i> Personally: I Love Video Games (PS5)!!!!!! </i></h3></br>
 
 an image
 ![image alt text](https://example.com/link-to-image)
@@ -119,7 +119,7 @@ wrapped in a link
 </br>
 
 <!--CONNECT INFO & ANIMATED COMMENT IMAGE-->
-<h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="28" />&nbsp;&nbsp;<i> Connect with me: </i></h3>
+<h3 align="left"><img src="https://github.com/SP-XD/SP-XD/blob/main/images/message.gif?raw=true" width="30" />&nbsp;&nbsp;<i> Connect with me: </i></h3>
 <div align="left">
 <!--EMAIL INFO-->
 	<a href="mailto:ktkieshiatownes@gmail.com">
@@ -147,7 +147,7 @@ wrapped in a link
 </br>
 </br>
 <!--BADGE IMAGES & HANDS TYPING ON LAPTOP IMAGE-->
-<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20" />&nbsp;&nbsp;<i> Languages & Data Tools 👇:</i></h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30" />&nbsp;&nbsp;<i> Languages & Data Tools 👇:</i></h3>
   <div>
     <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
