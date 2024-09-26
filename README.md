@@ -173,7 +173,6 @@ wrapped in a link
 </br>
 <!--RANDOM COMPUTER JOKES-->
 <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-</br>
 
 
 <div align="center">
