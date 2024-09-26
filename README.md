@@ -55,7 +55,7 @@
 
 <!--PROF. TEXT ABOUT ME & ANIMATED PROF CODER WOMAN IMAGE-->
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="30" />&nbsp;&nbsp;<i> Professionally: </i></h3>
-<i>Resourceful Junior Data Analyst, seeking a full-time (permanent) entry-level position. Where I can further develop my skills in data analysis, data processing, data governance and reporting to increase the efficiency and accuracy of data processing leading to professional growth and success by taking on new responsibilities, troubleshooting, and resolving issues using my overall body of education & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support).</i> 
+<i>Resourceful Junior Data Analyst, seeking a full-time (permanent) entry-level position. Where I can further develop my skills in data analysis, data processing, data governance and reporting to increase the efficiency and accuracy of data processing leading to professional growth and success. By taking on new responsibilities, troubleshooting, and resolving issues using my overall body of education & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support).</i> 
 
 <h3 align="center"> I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions. </h3>
   
