@@ -16,7 +16,7 @@
 
 <!--ANIMATED LADY LISTENING TO MUSIC IMAGE-->
 <div id="header" align="center">
-<img align="center" src="https://media.tenor.com/mHnt-DiyUjgAAAAi/kitkatandahalf-mood-simone.gif" alt="Lady Listening to Music" width="55%"/></br>
+<img align="center" src="https://media.tenor.com/mHnt-DiyUjgAAAAi/kitkatandahalf-mood-simone.gif" alt="Lady Listening to Music" width="50%"/></br>
 </div>
 
 <!--LINKEDIN & GMAIL-->
