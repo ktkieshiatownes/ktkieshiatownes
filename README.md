@@ -16,7 +16,7 @@
 
 <!--ANIMATED LADY LISTENING TO MUSIC-->
 <div id="header" align="center">
-<img align="center" src="https://media.tenor.com/mHnt-DiyUjgAAAAi/kitkatandahalf-mood-simone.gif" alt="Lady Listening to Music" width="50%"/></br>
+<img align="center" src="https://media.tenor.com/mHnt-DiyUjgAAAAi/kitkatandahalf-mood-simone.gif" alt="Lady Listening to Music" width="55%"/></br>
 </div>
 
 <!--LINKEDIN & GMAIL-->
@@ -90,7 +90,10 @@
 
 <!--PERSONAL TEXT ABOUT ME & ANIMATED HEART IMAGE-->
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" />&nbsp;&nbsp;<i> Personally: I Love Video Games (PS5)!!!!!! </i></h3></br>
-<img align="center" src="https://i.pinimg.com/originals/a8/da/98/a8da98051b75d18c9fc6d73066d21612.png" alt="Women Gamers" width="100%" height="80%"/></br>
+<!--GAMER GIRLS BANNER IMAGE-->
+<img align="center" src="https://i.pinimg.com/originals/a8/da/98/a8da98051b75d18c9fc6d73066d21612.png" alt="Women Gamers" width="60%" height="80%"/>
+</br>
+</br>
 <!--an image
 ![image alt text](https://example.com/link-to-image)
 wrapped in a link
