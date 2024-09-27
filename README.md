@@ -76,9 +76,9 @@
 <!--ANIMATED BULLSEYE IMAGE-->
 - &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="16" />&nbsp;&nbsp;*Goals (Completed & In Progress...): Data Analyst Bootcamps*
   1. <b>Google</b>: Data Analytics Professional (in progress...)
-  2. <strong>FreeCodeCamp</strong>: Data Analyst with Python Course (in progress...)
-  3. <i>Udemy</i>: The Data Analyst Course - Complete Data Analyst (27 sections & 227 videos)
-  4. <i>YouTube</i>: AlexTheAnalyst Data Analyst Bootcamp (74 videos)
+  2. <b>FreeCodeCamp</b>: Data Analyst with Python Course (in progress...)
+  3. <b>Udemy</b>: The Data Analyst Course - Complete Data Analyst (27 sections & 227 videos)
+  4. <b>YouTube</b>: AlexTheAnalyst Data Analyst Bootcamp (74 videos)
 
 - 🌱 *I’m currently learning: SQL, Python, R Programming, Tableau & Power BI*
 
