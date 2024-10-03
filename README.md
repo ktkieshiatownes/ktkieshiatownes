@@ -106,7 +106,8 @@ wrapped in a link
 <!--VIDEO GAME IMAGEs & VIDEO LINKs-->
 <div align="">
 <!--REMNANT-->
-	<img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="220" height="170"> <a href="https://youtu.be/TXo8Ol8NQH0?si=4q74UMNVMNEJknsv"></a>
+   <a href="vvhttps://youtu.be/2FLA_6A_i5A?si=mFGO3tZioe2aOrVP">
+	<img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="220" height="170"></a>
 <!--WILD HEARTS-->
 	<img src="https://media.contentapi.ea.com/content/dam/eacom/wild-hearts/images/2022/09/wild-hearts-featured-image.jpg.adapt.crop191x100.1200w.jpg" width="220" height="170"> <a href="https://youtu.be/1RDozdehO70?si=IHyH_QuYJYWlBMA6"></a>
 <!--STAR WARS-->
