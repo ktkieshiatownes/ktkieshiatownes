@@ -93,15 +93,10 @@
 
 <!--GAMER GIRLIES BANNER IMAGE-->
 <div align="left"> 
-<img src="https://i.pinimg.com/originals/a8/da/98/a8da98051b75d18c9fc6d73066d21612.png" alt="Women Gamers" width="60%" height="50%"/>
+&nbsp;&nbsp;<img src="https://i.pinimg.com/originals/a8/da/98/a8da98051b75d18c9fc6d73066d21612.png" alt="Women Gamers" width="60%" height="50%"/>
 </div>
 </br>
 </br>
-<!--an image
-![image alt text](https://example.com/link-to-image)
-wrapped in a link
-[link text](https://example.com/my-link "link title")
-
 
 <!--VIDEO GAME IMAGEs & VIDEO LINKs-->
 <div align="">
