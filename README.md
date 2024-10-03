@@ -93,7 +93,7 @@
 
 <!--GAMER GIRLIES BANNER IMAGE-->
 <div align="left"> 
-&nbsp;&nbsp;<img src="https://i.pinimg.com/originals/a8/da/98/a8da98051b75d18c9fc6d73066d21612.png" alt="Women Gamers" width="60%" height="50%"/>
+<img src="https://i.pinimg.com/originals/a8/da/98/a8da98051b75d18c9fc6d73066d21612.png" alt="Women Gamers" width="60%" height="50%"/>
 </div>
 </br>
 </br>
@@ -161,7 +161,7 @@
 </br>
 <!--BADGE IMAGES & HANDS TYPING ON LAPTOP IMAGE-->
 <h3 align="left"><img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="30" />&nbsp;&nbsp;<i> Languages & Data Tools 👇:</i></h3>
-  <div>
+<div>
     <p align="center">
 	<img title="Python" alt="Python" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/python.svg" width="40" height="40" style="vertical-align:down; margin:4px"/>
 	<img title="R" alt="linux" src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/r-lang.svg" width="55" style="vertical-align:down; margin:4px"/>
