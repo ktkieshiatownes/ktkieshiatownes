@@ -97,7 +97,7 @@
 </div>
 </br>
 </br>
-
+<i>Click the tiles to watch some of my favorite video game walk-throughs...</i>
 <!--VIDEO GAME IMAGEs & VIDEO LINKs-->
 <div align="">
 <!--REMNANT-->
