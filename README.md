@@ -101,29 +101,29 @@
 <div align="">
 <!--REMNANT-->
    <a href="https://youtu.be/PANRdLHRanc?si=9dgCSXZsrcpV1Obo">
-   <img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="220" height="170"></a>
+      <img src="https://static1.dualshockersimages.com/wordpress/wp-content/uploads/2018/08/Remnant_Final_KeyArt-Logo.png" width="220" height="170"></a>
 <!--WILD HEARTS-->
     <a href="https://youtu.be/pZIMXQafh4c?si=ZQVMCzZ3zhtnTCwT">
-    <img src="https://media.contentapi.ea.com/content/dam/eacom/wild-hearts/images/2022/09/wild-hearts-featured-image.jpg.adapt.crop191x100.1200w.jpg" width="220" height="170"></a>
+       <img src="https://media.contentapi.ea.com/content/dam/eacom/wild-hearts/images/2022/09/wild-hearts-featured-image.jpg.adapt.crop191x100.1200w.jpg" width="220" height="170"></a>
 <!--STAR WARS-->
     <a href="https://youtu.be/1RDozdehO70?si=IHyH_QuYJYWlBMA6">
-    <img src="https://wp-uploads.qualbert.com/2023/05/content-6-1170x675.png" width="220" height="170"></a>
+       <img src="https://wp-uploads.qualbert.com/2023/05/content-6-1170x675.png" width="220" height="170"></a>
 <!--RESIDENT EVIL 7-->
     <a href="https://youtu.be/vlxM2BLl0Xk?si=vtCYtin6JqkZ_zL7">
-    <img src="https://s3.amazonaws.com/media.thecrimson.com/photos/2017/02/25/022917_1320924.jpg" width="220" height="170"></a>
+       <img src="https://s3.amazonaws.com/media.thecrimson.com/photos/2017/02/25/022917_1320924.jpg" width="220" height="170"></a>
 </br></br>
 <!--FARCRY 5-->
     <a href="https://youtu.be/NBfgrszEx48?si=LItMaLEBVGYmD0yh">
-    <img src="https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png" width="220" height="170"></a>
+       <img src="https://image.api.playstation.com/cdn/EP0001/CUSA05847_00/pEBJnRh6DeL2BfyZRa9jZRrNuSav42QPJIXyqo6Rgcr52o9kYLwY4EpouAzWh4Fu.png" width="220" height="170"></a>
 <!--FIRST DESCENDANTS-->
     <a href="https://youtu.be/uXUZDUhEhNA?si=yzwZHJnqsE24A8pC">	
-    <img src="https://i.imgur.com/WCXXGHR.png" width="220" height="170"></a>
+       <img src="https://i.imgur.com/WCXXGHR.png" width="220" height="170"></a>
 <!--DOOM ETERNAL-->
     <a href="https://youtu.be/31qYHl6Op2I?si=YLoMmJT2m_YcFQzf">	
-    <img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/SjdYof2sVBaY7YENVbNN4iaf.png" width="220" height="170"></a>
+       <img src="https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/SjdYof2sVBaY7YENVbNN4iaf.png" width="220" height="170"></a>
 <!--GOD OF WAR-->
     <a href="https://youtu.be/oUMRwOAa-BY?si=COEFN3Kgyq14ncR-">	
-    <img src="https://cdn.wccftech.com/wp-content/uploads/2022/11/god-of-war-ragnarok-sales.jpg" width="220" height="170"></a>
+       <img src="https://cdn.wccftech.com/wp-content/uploads/2022/11/god-of-war-ragnarok-sales.jpg" width="220" height="170"></a>
 </div>
 
 <!--ANIMATED FLOATING TECH STACK IMAGE-->
