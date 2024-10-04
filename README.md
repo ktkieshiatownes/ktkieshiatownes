@@ -89,14 +89,14 @@
 - <img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> &nbsp;*How to reach me ktkieshiatownes@gmail.com*
 
 <!--PERSONAL TEXT ABOUT ME & ANIMATED HEART IMAGE-->
-<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" />&nbsp;&nbsp;<i> Personally: I Love Video Games (PS5)!!!!!! </i></h3>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216125640-2783ebd5-e63e-4ed1-b491-627a40b24850.png" width="30" />&nbsp;&nbsp;<i> Personally: I Love Video Games!!!!!! </i></h3>
 
 <!--GAMER GIRLIES BANNER IMAGE-->
 <div align="left"> 
 <img src="https://i.pinimg.com/originals/a8/da/98/a8da98051b75d18c9fc6d73066d21612.png" alt="Women Gamers" width="60%" height="50%"/>
 </div>
 </br>
-<i>Click the tiles below to watch some of my favorite video game walk-throughs...</i>
+<i>Click the tiles below to watch some of my favorite PS5 video game walk-throughs...</i>
 <!--VIDEO GAME IMAGEs & VIDEO LINKs-->
 <div align="">
 <!--REMNANT-->
