@@ -174,7 +174,7 @@
 	<img title="Juypter" alt="Juypter" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" width="50" style="vertical-align:down; margin:4px"/>
 	<img title="Excel" alt="Excel" src="https://github.com/sempostma/office365-icons/blob/master/png/256/excel.png" width="55" style="vertical-align:down; margin:4px"/>
 	<img title="VSCode" alt="VSCode" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" style="vertical-align:down; margin:4px"/>
-	<img title="VSCode" alt="VSCode" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" style="vertical-align:down; margin:4px"/>
+	<img title="MicrosoftOffice" alt="MicrosoftOffice" src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" width="40" style="vertical-align:down; margin:4px"/>
  	<img title="PowerBI" alt="PowerBI" src="https://github.com/microsoft/PowerBI-Icons/blob/main/PNG/Power-BI.png" width="35" style="vertical-align:down; margin:4px"/>
     </p>
   </div>
