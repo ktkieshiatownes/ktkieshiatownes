@@ -55,9 +55,9 @@
 
 <!--PROF. TEXT ABOUT ME & ANIMATED PROF CODER WOMAN IMAGE-->
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="30" />&nbsp;&nbsp;<i> Professionally: </i></h3>
-<i>Resourceful Junior Data Analyst, seeking a full-time (permanent) entry-level position. Where I can further develop my skills in data analysis, data processing, data governance and reporting to increase the efficiency and accuracy of data processing leading to professional growth and success. By taking on new responsibilities, troubleshooting, and resolving issues using my overall body of education & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support).</i> 
+<i>Resourceful Data Analyst, seeking a full-time (permanent) entry-level position. Where I can further develop my skills in data analysis, data processing, data governance and reporting to increase the efficiency and accuracy of data processing leading to professional growth and success. By taking on new responsibilities, troubleshooting, and resolving issues using my overall body of education & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support).</i> 
 
-<h3 align="center"> I'm a Remote Tier 2 - IT Support Specialist at Esquire Deposition Solutions. </h3>
+<h3 align="center"> I'm a Remote Data Analyst at Esquire Deposition Solutions. </h3>
   
 - *I am a Fordham University alumnus.*
   
@@ -77,8 +77,9 @@
 - &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="16" />&nbsp;&nbsp;*Goals (Completed & In Progress...): Data Analyst Bootcamps*
   1. <b>Google</b>: Data Analytics Professional (in progress...)
   2. <b>FreeCodeCamp</b>: Data Analyst with Python Course (in progress...)
-  3. <b>Udemy</b>: The Data Analyst Course - Complete Data Analyst (27 sections & 227 videos)
-  4. <b>YouTube</b>: AlexTheAnalyst Data Analyst Bootcamp (74 videos)
+  3. <b>IBM</b>: SkillsBuild Data Analyst Course (in progress...)
+  4. <b>Udemy</b>: The Data Analyst Course - Complete Data Analyst (27 sections & 227 videos)
+  5. <b>YouTube</b>: AlexTheAnalyst Data Analyst Bootcamp (74 videos)
 
 - 🌱 *I’m currently learning: SQL, Python, R Programming, Tableau & Power BI*
 
