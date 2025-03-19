@@ -76,7 +76,7 @@
 <!--ANIMATED BULLSEYE IMAGE-->
 - &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="16" />&nbsp;&nbsp;*Goals (Completed & In Progress...): Data Analyst Bootcamps*
   1. <b>Google</b>: Data Analytics Professional (in progress...)
-  2. <b>FreeCodeCamp</b>: Data Analyst with Python Course (in progress...)
+  2. <b>Oracle NetSuite</b>: Data Analyst Training (in progress on the job...)
   3. <b>IBM</b>: SkillsBuild Data Analyst Course (in progress...)
   4. <b>Udemy</b>: The Data Analyst Course - Complete Data Analyst (27 sections & 227 videos)
   5. <b>YouTube</b>: AlexTheAnalyst Data Analyst Bootcamp (74 videos)
