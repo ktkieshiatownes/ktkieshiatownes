@@ -16,7 +16,7 @@
 
 <!--ANIMATED LADY LISTENING TO MUSIC IMAGE-->
 <div id="header" align="center">
-<img align="center" src="https://media.tenor.com/mHnt-DiyUjgAAAAi/kitkatandahalf-mood-simone.gif" alt="Lady Listening to Music" width="50%"/></br>
+<img align="center" src="https://media.tenor.com/mHnt-DiyUjgAAAAi/kitkatandahalf-mood-simone.gif" alt="Lady Listening to Music" width="45%"/></br>
 </div>
 
 <!--LINKEDIN & GMAIL-->
@@ -62,7 +62,7 @@
 <!--PROF. TEXT ABOUT ME, CORE COMPENTENCIES & ANIMATED PROF CODER WOMAN & FLAMES IMAGES-->
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="30" />&nbsp;&nbsp;<i> Professionally: </i></h3>
 <i>Meticulous and poised Jr Data Analyst with a solid foundation in Information Technology Systems and over a year of hands-on data analysis, governance, and reporting experience. Proven track record of bridging the gap between complex IT infrastructure and data-driven business insights. Adept at leveraging SQL, Python, and Power BI to clean data, build interactive dashboards, and streamline reporting workflows. Combines technical acumen with 10+ years of cross-functional team collaboration to drive data accuracy and operational efficiency.</i>
-<h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" />&nbsp;&nbsp;<i>Core Competencies: <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" /></i></h3> 
+<h3 align="center"> <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" />&nbsp;&nbsp;<i>Core Competencies <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100" /></i></h3> 
 <i>Project Management | Oracle NetSuite Administrator | Troubleshooting | Technical/Desktop Support | ITSM Platforms: FreshService, Zendesk, Jira | Problem Solving | Customer Service | Data Analytics | Data Visualization | Data Manipulation | SQL, Python & R Programming | Data Cleaning & Preprocessing | Dashboards: Salesforce, Power BI, Tableau & Excel</i>
 
 
