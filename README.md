@@ -63,7 +63,7 @@
   
 - *I have a BS in Information Technology Systems.*
   
-- *I'm Multi-Certified:*
+- *I'm Multi-Certified:* </br>
   		•	Google Data Analytics Certificate <b>(2026)</b>
   		•	Udemy Power BI – Complete Microsoft Power BI Bootcamp <b>(2026)</b>
   		•	Udemy The Data Analysis Course: Complete Data Analysis Bootcamp Certificate <b>(2025)</b>
