@@ -57,7 +57,7 @@
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="30" />&nbsp;&nbsp;<i> Professionally: </i></h3>
 <i>Meticulous and poised Jr Data Analyst with a solid foundation in Information Technology Systems and over a year of hands-on data analysis, governance, and reporting experience. Proven track record of bridging the gap between complex IT infrastructure and data-driven business insights. Adept at leveraging SQL, Python, and Power BI to clean data, build interactive dashboards, and streamline reporting workflows. Combines technical acumen with 10+ years of cross-functional team collaboration to drive data accuracy and operational efficiency.</i> </br>
 
-<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="30" />&nbsp;&nbsp;><i>
+<h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="30" />&nbsp;&nbsp;<i>
 Core Competencies: </i></h3>
 <i>Project Management | Oracle NetSuite Administrator | Troubleshooting | Technical/Desktop Support | ITSM Platforms: FreshService, Zendesk, Jira | Problem Solving | Customer Service | Data Analytics | Data Visualization | Data Manipulation | SQL, Python & R Programming | Data Cleaning & Preprocessing | Dashboards: Salesforce, Power BI, Tableau & Excel</i>
 
