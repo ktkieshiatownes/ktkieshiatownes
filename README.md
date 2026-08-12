@@ -36,7 +36,13 @@
 <p align="center"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&width=100"/></p>
 </h1>
 
-
+<!--AUTOMATED PACMAN-->
+<div id="header" align="center">
+<picture>
+	<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</picture>
+</div>
+</br>
 <!--AUTOMATED SNAKE-->
 <div id="header" align="center">
 <picture>
