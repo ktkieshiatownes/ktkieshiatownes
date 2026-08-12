@@ -55,21 +55,18 @@
 
 <!--PROF. TEXT ABOUT ME & ANIMATED PROF CODER WOMAN IMAGE-->
 <h3 align="left"> <img src="https://user-images.githubusercontent.com/74038190/216656993-2f7ade25-348a-4925-95a8-fba437ed9bcd.gif" width="30" />&nbsp;&nbsp;<i> Professionally: </i></h3>
-<i>Resourceful Data Analyst, seeking a full-time (permanent) entry-level Data Scientist position. Where I can further develop my skills in data analysis, data processing, data governance and reporting to increase the efficiency and accuracy of data processing leading to professional growth and success. By taking on new responsibilities, troubleshooting, and resolving issues using my overall body of education & experience (10+ years of Data Entry/Customer Service & 5+ years of Desktop Support).</i> 
+<i>Meticulous and poised Data Analyst with a solid foundation in Information Technology Systems and over a year of hands-on data analysis, governance, and reporting experience. Proven track record of bridging the gap between complex IT infrastructure and data-driven business insights. Adept at leveraging SQL, Python, and Power BI to clean data, build interactive dashboards, and streamline reporting workflows. Combines technical acumen with 10+ years of cross-functional team collaboration to drive data accuracy and operational efficiency.</i> 
 
-<h3 align="center"> I'm a Remote Data Analyst at Esquire Deposition Solutions. </h3>
+<h3 align="center"> I'm a Remote Jr Data Analyst at Esquire Deposition Solutions. </h3>
   
 - *I am a Fordham University alumnus.*
   
 - *I have a BS in Information Technology Systems.*
   
-- *I am a detailed-oriented Microsoft Office Specialist, with 10+ years of Data Entry/Customer Service experience.*
-  
 - *I'm Multi-Certified:*
-  1. ISC2 Cybersecurity (CC) ‘23
-  2. A+ ‘21
-  3. CCENT '17 
-  4. Microsoft Office Suite ('07, '10 & '13)
+  •	Google Data Analytics Certificate <b>(2026)</b>
+  •	Udemy Power BI – Complete Microsoft Power BI Bootcamp <b>(2026)</b>
+  •	Udemy The Data Analysis Course: Complete Data Analysis Bootcamp Certificate <b>(2025)</b>
      
 <!--ANIMATED LIGHTING IMAGE-->
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;*In 5 to 7 years, I see myself as a Data Analyst becoming a Data Scientist.*
@@ -77,10 +74,8 @@
 - &nbsp;&nbsp;<img src="https://user-images.githubusercontent.com/74038190/235223604-c9f38e6d-e9df-4608-abeb-ae7fbdf46bfd.gif" width="16" />&nbsp;&nbsp;*Goals (Completed & In Progress...): Data Analyst Bootcamps*
   1. <b>Google</b>: Data Analytics Professional (in progress...)
   2. <b>Oracle NetSuite</b>: Data Analyst Training (in progress on the job...)
-  3. <b>Harvard University</b>: Introduction to Data Science with Python (in progress...)
-  4. <b>IBM</b>: SkillsBuild Data Analyst Course (in progress...)
-  5. <b>Udemy</b>: The Data Analyst Course - Complete Data Analyst (27 sections & 227 videos)
-  6. <b>YouTube</b>: AlexTheAnalyst Data Analyst Bootcamp (74 videos)
+  3. <b>Udemy</b>: The Data Analyst Course - Complete Data Analyst (27 sections & 227 videos)
+  4. <b>YouTube</b>: AlexTheAnalyst Data Analyst Bootcamp (74 videos)
 
 - 🌱 *I’m currently learning: SQL, Python, R Programming, Tableau & Power BI*
 
