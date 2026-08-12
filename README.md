@@ -64,9 +64,9 @@
 - *I have a BS in Information Technology Systems.*
   
 - *I'm Multi-Certified:*
-  •	Google Data Analytics Certificate <b>(2026)</b>
-  •	Udemy Power BI – Complete Microsoft Power BI Bootcamp <b>(2026)</b>
-  •	Udemy The Data Analysis Course: Complete Data Analysis Bootcamp Certificate <b>(2025)</b>
+  		•	Google Data Analytics Certificate <b>(2026)</b>
+  		•	Udemy Power BI – Complete Microsoft Power BI Bootcamp <b>(2026)</b>
+  		•	Udemy The Data Analysis Course: Complete Data Analysis Bootcamp Certificate <b>(2025)</b>
      
 <!--ANIMATED LIGHTING IMAGE-->
 - &nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />&nbsp;&nbsp;&nbsp;*In 5 to 7 years, I see myself as a Data Analyst becoming a Data Scientist.*
